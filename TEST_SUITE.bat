@@ -1,4 +1,5 @@
 @echo off
+setlocal enabledelayedexpansion
 echo ========================================
 echo MarkItDown Complete Test Suite
 echo Testing all formats and features
