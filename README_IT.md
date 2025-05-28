@@ -27,6 +27,14 @@ Questo progetto estende l'utility [MarkItDown](https://github.com/microsoft/mark
 - **Elaborazione batch** con script automatizzati
 - **Perfetto per** analisi documenti con contenuto testuale e visuale
 
+### 🚀 **NUOVO: Elaborazione Strutturata Avanzata**
+- **Struttura directory standardizzata** con nomenclatura file prevedibile
+- **Output JSON completo** con metadati elaborazione dettagliati
+- **Codici exit specifici** per automazione e gestione errori
+- **Report analisi immagini** con statistiche estrazione dettagliate
+- **Uso diretto eseguibile** senza dipendenze file batch
+- **Compatibilità API rigorosa** per workflow automazione enterprise
+
 ### 📄 Supporto Completo per Formati Documento
 
 #### Documenti Office
@@ -172,16 +180,66 @@ MARKITDOWN_PLUS.bat rapporto.docx rapporto.md pagine_rapporto
 
 ### 🚀 **NUOVO: Elaborazione Strutturata Avanzata**
 ```cmd
-# Output strutturato con layout directory specifico e codici exit
-PROCESS_DOCUMENT.bat documento.pdf
-# Crea: documento/documento.txt + documento/page_images/documento_page_N.png
+# Uso diretto eseguibile con output strutturato
+dist\markitdown_enhanced.exe documento.pdf
+# Crea: documento/documento.txt + documento/documento_images_analysis.txt + documento/page_images/documento_page_N.png
 
-# Output JSON per automazione
-PROCESS_DOCUMENT.bat rapporto.docx --json --quiet
-# Ritorna JSON con stato dettagliato e codici exit
+# Output JSON per automazione (formato strettamente compatibile)
+dist\markitdown_enhanced.exe rapporto.docx --json-output --quiet
+# Ritorna JSON con stato dettagliato e codici exit standardizzati
 
-# Codici exit disponibili: 0=successo, 10=solo testo, 11=solo immagini, 12=entrambi, 13=parziale, 1-4=errori
+# Wrapper batch (opzionale)
+PROCESS_DOCUMENT.bat documento.pdf --json --quiet
+
+# Codici exit: 0=successo, 10=solo testo, 11=solo immagini, 12=entrambi, 13=parziale, 1-4=errori
 ```
+
+#### **Struttura Output Avanzata**
+Per qualsiasi documento elaborato, crea una struttura directory standardizzata:
+```
+documento_sorgente.pdf →
+  documento_sorgente/
+  ├── documento_sorgente.txt                    (contenuto testo estratto)
+  ├── documento_sorgente_images_analysis.txt    (report elaborazione immagini)
+  └── page_images/
+      ├── documento_sorgente_page_1.png         (max 2000px, PNG ottimizzato)
+      ├── documento_sorgente_page_2.png
+      └── documento_sorgente_page_N.png
+```
+
+#### **Formato Output JSON**
+Strettamente compatibile con standard automazione:
+```json
+{
+  "status": "success|partial|error",
+  "exit_code": 12,
+  "pages_processed": 15,
+  "text_extracted": true,
+  "images_count": 8,
+  "ocr_performed": true,
+  "heuristic_applied": true,
+  "output_files": {
+    "processed": "/path/to/output.txt",
+    "images_analysis": "/path/to/images_analysis.txt",
+    "page_images_folder": "/path/to/page_images/"
+  },
+  "processing_time": 12.5,
+  "errors": []
+}
+```
+
+#### **Riferimento Codici Exit**
+| Codice | Stato | Descrizione |
+|--------|-------|-------------|
+| **0** | Successo completo | Tutta l'elaborazione completata con successo |
+| **10** | Solo testo | Testo estratto, elaborazione immagini fallita |
+| **11** | Solo immagini | Immagini estratte, elaborazione testo fallita |
+| **12** | Testo e immagini | Sia testo che immagini estratti con successo |
+| **13** | Successo parziale | Completato con warning recuperabili |
+| **1** | Errore file | File non trovato, permessi, o problemi formato |
+| **2** | Documento corrotto | PDF o documento sembra corrotto/illeggibile |
+| **3** | Timeout/interruzione | Elaborazione interrotta da utente o timeout |
+| **4** | Errore configurazione | Parametri non validi o dipendenze mancanti |
 
 ### Opzioni Avanzate
 ```cmd
@@ -285,27 +343,62 @@ markitdown.exe --list-plugins
 
 ## 🧪 Test e Validazione
 
-### Test Automatici
+### Suite Test Completa
 ```cmd
+# Genera file test base automaticamente
+CREATE_TEST_FILES.bat
+
+# Esegue suite test completa (dopo aver aggiunto file manuali)
+TEST_SUITE.bat
+
+# Test eseguibile base (legacy)
 TEST_EXECUTABLE.bat
 ```
 
-I test includono:
-- Verifica comando versione
-- Funzionalità sistema aiuto
-- Conversioni formati file core (TXT, HTML, CSV, JSON)
-- Gestione errori e casi limite
+### Requisiti File Test
+Per test completi, aggiungi questi file alla directory `test_files/`:
 
-### Test Manuali
-```cmd
-# Testare formati specifici
-markitdown.exe test.pdf
-markitdown.exe test.docx  
-markitdown.exe test.xlsx
-markitdown.exe test.pptx
-markitdown.exe test.jpg
-markitdown.exe test.mp3
-```
+#### **File Essenziali (Alta Priorità)**
+- **`test.pdf`** - Qualsiasi documento PDF (2-5 pagine ideale)
+- **`test.docx`** - Documento Word con formattazione e tabelle
+- **`test.xlsx`** - Foglio Excel con più fogli di lavoro
+- **`test.pptx`** - Presentazione PowerPoint (3-5 slide)
+- **`photo.jpg`** - Immagine JPEG con contenuto chiaro
+
+#### **File Aggiuntivi (Media Priorità)**
+- **`image.gif`** - File immagine GIF
+- **`bitmap.bmp`** - File immagine BMP
+- **`email.msg`** - File messaggio Outlook
+- **`book.epub`** - File ebook EPUB
+- **`audio.mp3`** - File audio per test trascrizione
+
+#### **File Test Automatici**
+Lo script `CREATE_TEST_FILES.bat` genera automaticamente:
+- File di testo (UTF-8, caratteri speciali)
+- File HTML (semplici e complessi)
+- File dati CSV
+- File configurazione JSON
+- Documenti XML
+- Notebook Jupyter
+- Immagini di test
+
+### Copertura Test
+La suite test valida:
+- ✅ **Tutte le conversioni formato file** con codici exit appropriati
+- ✅ **Conformità output JSON** con specifiche API
+- ✅ **Validazione struttura directory** per elaborazione avanzata
+- ✅ **Estrazione immagini** per formati supportati
+- ✅ **Gestione errori** e casi limite
+- ✅ **Compatibilità** con MarkItDown originale
+
+### Risultati Test
+I risultati sono salvati in `test_results/` con:
+- Risultati elaborazione individuali (formato JSON)
+- Report validazione struttura
+- Metriche prestazioni
+- Log errori dettagliati
+
+Per istruzioni test dettagliate, vedi: [`TEST_FILES_INSTRUCTIONS.md`](TEST_FILES_INSTRUCTIONS.md)
 
 ### Benchmark Prestazioni
 

@@ -27,6 +27,14 @@ This project extends Microsoft's [MarkItDown](https://github.com/microsoft/marki
 - **Batch processing** with automated scripts
 - **Perfect for** document analysis with both text and visual content
 
+### 🚀 **NEW: Enhanced Structured Processing**
+- **Standardized directory structure** with predictable file naming
+- **Comprehensive JSON output** with detailed processing metadata
+- **Specific exit codes** for automation and error handling
+- **Image analysis reports** with detailed extraction statistics
+- **Direct executable usage** without batch file dependencies
+- **Strict API compatibility** for enterprise automation workflows
+
 ### 📄 Complete Document Format Support
 
 #### Office Documents
@@ -172,16 +180,66 @@ MARKITDOWN_PLUS.bat report.docx report.md report_pages
 
 ### 🚀 **NEW: Enhanced Structured Processing**
 ```cmd
-# Structured output with specific directory layout and exit codes
-PROCESS_DOCUMENT.bat document.pdf
-# Creates: document/document.txt + document/page_images/document_page_N.png
+# Direct executable usage with structured output
+dist\markitdown_enhanced.exe document.pdf
+# Creates: document/document.txt + document/document_images_analysis.txt + document/page_images/document_page_N.png
 
-# JSON output for automation
-PROCESS_DOCUMENT.bat report.docx --json --quiet
-# Returns JSON with detailed status and exit codes
+# JSON output for automation (strictly compatible format)
+dist\markitdown_enhanced.exe report.docx --json-output --quiet
+# Returns JSON with detailed status and standardized exit codes
 
-# Available exit codes: 0=success, 10=text only, 11=images only, 12=both, 13=partial, 1-4=errors
+# Batch wrapper (optional)
+PROCESS_DOCUMENT.bat document.pdf --json --quiet
+
+# Exit codes: 0=success, 10=text only, 11=images only, 12=both, 13=partial, 1-4=errors
 ```
+
+#### **Enhanced Output Structure**
+For any processed document, creates a standardized directory structure:
+```
+source_document.pdf →
+  source_document/
+  ├── source_document.txt              (extracted text content)
+  ├── source_document_images_analysis.txt  (image processing report)
+  └── page_images/
+      ├── source_document_page_1.png   (max 2000px, optimized PNG)
+      ├── source_document_page_2.png
+      └── source_document_page_N.png
+```
+
+#### **JSON Output Format**
+Strictly compatible with automation standards:
+```json
+{
+  "status": "success|partial|error",
+  "exit_code": 12,
+  "pages_processed": 15,
+  "text_extracted": true,
+  "images_count": 8,
+  "ocr_performed": true,
+  "heuristic_applied": true,
+  "output_files": {
+    "processed": "/path/to/output.txt",
+    "images_analysis": "/path/to/images_analysis.txt",
+    "page_images_folder": "/path/to/page_images/"
+  },
+  "processing_time": 12.5,
+  "errors": []
+}
+```
+
+#### **Exit Code Reference**
+| Code | Status | Description |
+|------|--------|-------------|
+| **0** | Complete success | All processing completed successfully |
+| **10** | Text only | Text extracted, image processing failed |
+| **11** | Images only | Images extracted, text processing failed |
+| **12** | Text and images | Both text and images extracted successfully |
+| **13** | Partial success | Completed with recoverable warnings |
+| **1** | File error | File not found, permissions, or format issues |
+| **2** | Document corrupted | PDF or document appears corrupted/unreadable |
+| **3** | Timeout/interruption | Processing interrupted by user or timeout |
+| **4** | Configuration error | Invalid parameters or missing dependencies |
 
 ### Advanced Options
 ```cmd
@@ -285,27 +343,62 @@ markitdown.exe --list-plugins
 
 ## 🧪 Testing & Validation
 
-### Automated Testing
+### Comprehensive Test Suite
 ```cmd
+# Generate basic test files automatically
+CREATE_TEST_FILES.bat
+
+# Run complete test suite (after adding manual files)
+TEST_SUITE.bat
+
+# Basic executable testing (legacy)
 TEST_EXECUTABLE.bat
 ```
 
-Tests include:
-- Version command verification
-- Help system functionality
-- Core file format conversions (TXT, HTML, CSV, JSON)
-- Error handling and edge cases
+### Test File Requirements
+For complete testing, add these files to `test_files/` directory:
 
-### Manual Testing
-```cmd
-# Test specific formats
-markitdown.exe test.pdf
-markitdown.exe test.docx  
-markitdown.exe test.xlsx
-markitdown.exe test.pptx
-markitdown.exe test.jpg
-markitdown.exe test.mp3
-```
+#### **Essential Files (High Priority)**
+- **`test.pdf`** - Any PDF document (2-5 pages ideal)
+- **`test.docx`** - Word document with formatting and tables
+- **`test.xlsx`** - Excel spreadsheet with multiple worksheets
+- **`test.pptx`** - PowerPoint presentation (3-5 slides)
+- **`photo.jpg`** - JPEG image with clear content
+
+#### **Additional Files (Medium Priority)**
+- **`image.gif`** - GIF image file
+- **`bitmap.bmp`** - BMP image file  
+- **`email.msg`** - Outlook message file
+- **`book.epub`** - EPUB ebook file
+- **`audio.mp3`** - Audio file for transcription testing
+
+#### **Automatic Test Files**
+The `CREATE_TEST_FILES.bat` script automatically generates:
+- Text files (UTF-8, special characters)
+- HTML files (simple and complex)
+- CSV data files
+- JSON configuration files
+- XML documents
+- Jupyter notebooks
+- Test images
+
+### Test Coverage
+The test suite validates:
+- ✅ **All file format conversions** with proper exit codes
+- ✅ **JSON output compliance** with API specifications
+- ✅ **Directory structure validation** for enhanced processing
+- ✅ **Image extraction** for supported formats
+- ✅ **Error handling** and edge cases
+- ✅ **Compatibility** with original MarkItDown
+
+### Test Results
+Results are saved in `test_results/` with:
+- Individual processing results (JSON format)
+- Structure validation reports
+- Performance metrics
+- Detailed error logs
+
+For detailed test instructions, see: [`TEST_FILES_INSTRUCTIONS.md`](TEST_FILES_INSTRUCTIONS.md)
 
 ### Performance Benchmarks
 
