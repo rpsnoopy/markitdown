@@ -20,6 +20,13 @@ This project extends Microsoft's [MarkItDown](https://github.com/microsoft/marki
 
 ## 🌟 Key Features
 
+### 🖼️ **NEW: Image Extraction for OpenAI**
+- **Page-by-page image extraction** from PDF, PowerPoint, Word, Excel
+- **Configurable resolution** up to 2000px for longest side
+- **PNG format optimization** for OpenAI attachment
+- **Batch processing** with automated scripts
+- **Perfect for** document analysis with both text and visual content
+
 ### 📄 Complete Document Format Support
 
 #### Office Documents
@@ -149,6 +156,31 @@ markitdown.exe spreadsheet.xlsx
 
 # Process from stdin
 type document.txt | markitdown.exe
+```
+
+### 🖼️ New: Image Extraction for OpenAI
+```cmd
+# Extract page images for OpenAI attachment (PNG format, up to 2000px)
+EXTRACT_IMAGES.bat document.pdf
+EXTRACT_IMAGES.bat presentation.pptx slides 1500
+python image_extractor.py spreadsheet.xlsx --output-dir sheets --max-size 2000
+
+# Convert to both Markdown AND extract images in one command
+MARKITDOWN_PLUS.bat document.pdf
+MARKITDOWN_PLUS.bat report.docx report.md report_pages
+```
+
+### 🚀 **NEW: Enhanced Structured Processing**
+```cmd
+# Structured output with specific directory layout and exit codes
+PROCESS_DOCUMENT.bat document.pdf
+# Creates: document/document.txt + document/page_images/document_page_N.png
+
+# JSON output for automation
+PROCESS_DOCUMENT.bat report.docx --json --quiet
+# Returns JSON with detailed status and exit codes
+
+# Available exit codes: 0=success, 10=text only, 11=images only, 12=both, 13=partial, 1-4=errors
 ```
 
 ### Advanced Options

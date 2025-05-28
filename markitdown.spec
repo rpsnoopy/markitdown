@@ -2,7 +2,11 @@
 from PyInstaller.utils.hooks import collect_data_files
 from PyInstaller.utils.hooks import collect_dynamic_libs
 
-datas = [('packages/markitdown/src/markitdown', 'markitdown')]
+datas = [
+    ('packages/markitdown/src/markitdown', 'markitdown'),
+    ('image_extractor.py', '.'),
+    ('markitdown_enhanced.py', '.'),
+]
 binaries = []
 
 # Collect data files from packages

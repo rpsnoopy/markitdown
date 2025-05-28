@@ -29,6 +29,18 @@ echo.
 echo Using spec file for compilation...
 python -m PyInstaller markitdown.spec
 
+echo.
+echo [3.5/5] Building enhanced version with structured output...
+python -m PyInstaller --onefile --name=markitdown_enhanced ^
+    --add-data="packages/markitdown/src/markitdown;markitdown" ^
+    --add-data="image_extractor.py;." ^
+    --hidden-import=markitdown ^
+    --hidden-import=markitdown.__main__ ^
+    --hidden-import=markitdown._markitdown ^
+    --collect-data=magika ^
+    --collect-data=certifi ^
+    markitdown_enhanced.py
+
 if errorlevel 1 (
     echo.
     echo ========================================

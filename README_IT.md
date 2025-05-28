@@ -20,6 +20,13 @@ Questo progetto estende l'utility [MarkItDown](https://github.com/microsoft/mark
 
 ## 🌟 Caratteristiche Principali
 
+### 🖼️ **NUOVO: Estrazione Immagini per OpenAI**
+- **Estrazione immagini pagina per pagina** da PDF, PowerPoint, Word, Excel
+- **Risoluzione configurabile** fino a 2000px per il lato più lungo
+- **Ottimizzazione formato PNG** per allegato OpenAI
+- **Elaborazione batch** con script automatizzati
+- **Perfetto per** analisi documenti con contenuto testuale e visuale
+
 ### 📄 Supporto Completo per Formati Documento
 
 #### Documenti Office
@@ -149,6 +156,31 @@ markitdown.exe foglio_calcolo.xlsx
 
 # Elaborare da stdin
 type documento.txt | markitdown.exe
+```
+
+### 🖼️ Nuovo: Estrazione Immagini per OpenAI
+```cmd
+# Estrarre immagini pagine per allegato OpenAI (formato PNG, fino a 2000px)
+EXTRACT_IMAGES.bat documento.pdf
+EXTRACT_IMAGES.bat presentazione.pptx slide 1500
+python image_extractor.py foglio_calcolo.xlsx --output-dir fogli --max-size 2000
+
+# Convertire in Markdown E estrarre immagini con un comando
+MARKITDOWN_PLUS.bat documento.pdf
+MARKITDOWN_PLUS.bat rapporto.docx rapporto.md pagine_rapporto
+```
+
+### 🚀 **NUOVO: Elaborazione Strutturata Avanzata**
+```cmd
+# Output strutturato con layout directory specifico e codici exit
+PROCESS_DOCUMENT.bat documento.pdf
+# Crea: documento/documento.txt + documento/page_images/documento_page_N.png
+
+# Output JSON per automazione
+PROCESS_DOCUMENT.bat rapporto.docx --json --quiet
+# Ritorna JSON con stato dettagliato e codici exit
+
+# Codici exit disponibili: 0=successo, 10=solo testo, 11=solo immagini, 12=entrambi, 13=parziale, 1-4=errori
 ```
 
 ### Opzioni Avanzate
