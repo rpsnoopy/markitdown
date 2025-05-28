@@ -1,0 +1,28 @@
+# Build requirements for PyInstaller distribution
+# Install these before running PyInstaller
+
+# Core PyInstaller
+pyinstaller>=6.0
+
+# MarkItDown with all optional dependencies
+# Note: Install from local source with: pip install -e 'packages/markitdown[all]'
+
+# All optional dependencies for MarkItDown
+python-pptx
+mammoth
+pandas
+openpyxl
+xlrd
+lxml
+pdfminer.six
+olefile
+pydub
+SpeechRecognition
+youtube-transcript-api~=1.0.0
+azure-ai-documentintelligence
+azure-identity
+
+# Additional dependencies that might be needed
+Pillow
+certifi
+setuptools
