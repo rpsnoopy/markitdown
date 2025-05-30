@@ -1,0 +1,37 @@
+PyInstaller\loader\pyimod02_importers.py:450: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+usage: markitdown_enhanced.exe [-h] [--json-output] [--quiet] source_file
+
+Enhanced MarkItDown with structured output and JSON reporting
+
+positional arguments:
+  source_file        Path to the source document file
+
+options:
+  -h, --help         show this help message and exit
+  --json-output, -j  Output detailed status as JSON to stdout
+  --quiet, -q        Suppress non-JSON output messages
+
+Examples:
+  python markitdown_enhanced.py document.pdf
+  python markitdown_enhanced.py presentation.pptx --json-output
+  python markitdown_enhanced.py report.docx --quiet --json-output
+
+Output structure:
+  source.pdf ->
+    source/
+      source.txt (extracted text)
+      page_images/
+        source_page_1.png
+        source_page_2.png
+        ...
+
+Exit codes:
+  0: Complete success
+  10: Text only extracted
+  11: Images only extracted
+  12: Text and images extracted
+  1: File error (not found, permissions, format)
+  2: PDF corrupted/unreadable
+  3: Timeout/user interruption
+  4: Configuration/parameter error
+        

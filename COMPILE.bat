@@ -1,11 +1,11 @@
 @echo off
 echo ========================================
-echo MarkItDown PyInstaller Compilation
-echo Creating Single Executable File
+echo MarkItDown Enhanced - Fast Compilation
+echo Building ONLY Enhanced Version
 echo ========================================
 echo.
 
-echo [1/5] Checking if MarkItDown is installed...
+echo [1/4] Checking if MarkItDown is installed...
 python -c "import markitdown; print('MarkItDown found:', markitdown.__file__)" 2>nul
 if errorlevel 1 (
     echo ERROR: MarkItDown is not installed!
@@ -15,40 +15,29 @@ if errorlevel 1 (
 )
 
 echo.
-echo [2/5] Cleaning previous builds...
-if exist build rmdir /s /q build
-if exist dist rmdir /s /q dist
-echo Build directories cleaned.
+echo [2/4] Cleaning previous enhanced build...
+if exist dist\markitdown_enhanced.exe del /q dist\markitdown_enhanced.exe
+if exist build\markitdown_enhanced rmdir /s /q build\markitdown_enhanced
+echo Enhanced build directory cleaned.
 
 echo.
-echo [3/5] Starting PyInstaller compilation...
-echo This will create a single executable file with ALL converters included
-echo Compilation may take 5-15 minutes depending on your system...
+echo [3/4] Building Enhanced version with structured output...
+echo This creates a single executable with ALL Office + PDF support
+echo Compilation time: ~3-5 minutes (faster than full build)
 echo.
 
-echo Using spec file for compilation...
-python -m PyInstaller markitdown.spec
-
-echo.
-echo [3.5/5] Building enhanced version with structured output...
-python -m PyInstaller --onefile --name=markitdown_enhanced ^
-    --add-data="packages/markitdown/src/markitdown;markitdown" ^
-    --add-data="image_extractor.py;." ^
-    --hidden-import=markitdown ^
-    --hidden-import=markitdown.__main__ ^
-    --hidden-import=markitdown._markitdown ^
-    --collect-data=magika ^
-    --collect-data=certifi ^
-    markitdown_enhanced.py
+echo Using enhanced spec file for compilation...
+python -m PyInstaller markitdown_enhanced.spec
 
 if errorlevel 1 (
     echo.
     echo ========================================
-    echo COMPILATION FAILED!
+    echo ENHANCED COMPILATION FAILED!
     echo ========================================
     echo Check the error messages above.
     echo Common issues:
-    echo - Missing dependencies: Run INSTALL_DEPENDENCIES.bat
+    echo - Missing dependencies: Run INSTALL_OFFICE_DEPENDENCIES.bat
+    echo - Corrupted PyInstaller: Run REMOVE_CORRUPTED_DIST_INFO.bat
     echo - Insufficient disk space
     echo - Antivirus interference
     pause
@@ -56,49 +45,51 @@ if errorlevel 1 (
 )
 
 echo.
-echo [4/5] Testing the compiled executable...
-if exist "dist\markitdown.exe" (
-    echo Testing version command...
-    "dist\markitdown.exe" --version
+echo [4/4] Testing the enhanced executable...
+if exist "dist\markitdown_enhanced.exe" (
+    echo Testing enhanced version with help command...
+    "dist\markitdown_enhanced.exe" --help
     if errorlevel 1 (
-        echo WARNING: Executable test failed
+        echo WARNING: Enhanced executable test failed
     ) else (
-        echo SUCCESS: Executable test passed!
+        echo SUCCESS: Enhanced executable test passed!
     )
 ) else (
-    echo ERROR: markitdown.exe was not created!
+    echo ERROR: markitdown_enhanced.exe was not created!
     pause
     exit /b 1
 )
 
 echo.
-echo [5/5] Build summary...
-if exist "dist\markitdown.exe" (
-    for %%I in ("dist\markitdown.exe") do set size=%%~zI
+echo ========================================
+echo ENHANCED COMPILATION SUCCESSFUL!
+echo ========================================
+
+if exist "dist\markitdown_enhanced.exe" (
+    for %%I in ("dist\markitdown_enhanced.exe") do set size=%%~zI
     set /a sizeMB=!size!/1024/1024
     echo.
-    echo ========================================
-    echo COMPILATION SUCCESSFUL!
-    echo ========================================
-    echo Executable: dist\markitdown.exe
+    echo Executable: dist\markitdown_enhanced.exe
     echo Size: !sizeMB! MB
     echo.
-    echo The executable includes support for ALL file formats:
-    echo - PDF, Word, Excel, PowerPoint
-    echo - Images with EXIF metadata
-    echo - Audio with transcription
-    echo - HTML, CSV, JSON, XML
-    echo - Jupyter notebooks
-    echo - ZIP archives
-    echo - And much more!
+    echo Enhanced features included:
+    echo - ✅ DOCX, PPTX, XLSX (Office documents)
+    echo - ✅ PDF with image extraction (PyMuPDF)
+    echo - ✅ Structured JSON output
+    echo - ✅ Image analysis and metadata
+    echo - ✅ Page images extraction
+    echo - ✅ HTML, CSV, JSON, XML support
+    echo - ✅ All MarkItDown converters
     echo.
-    echo Usage examples:
-    echo   dist\markitdown.exe document.pdf ^> output.md
-    echo   dist\markitdown.exe --help
-    echo   dist\markitdown.exe --version
+    echo Quick test commands:
+    echo   dist\markitdown_enhanced.exe test_files\test.pdf --json-output
+    echo   dist\markitdown_enhanced.exe test_files\test.docx --json-output
+    echo   dist\markitdown_enhanced.exe --help
+    echo.
+    echo Ready for testing with TEST_SUITE.bat!
     echo.
 ) else (
-    echo COMPILATION FAILED - executable not found
+    echo COMPILATION FAILED - enhanced executable not found
 )
 
 echo ========================================

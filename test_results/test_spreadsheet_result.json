@@ -1,0 +1,36 @@
+PyInstaller\loader\pyimod02_importers.py:450: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+pydub\utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+Extracting worksheets from test_files\test_spreadsheet.xlsx
+  Saved sheet 1 (Sheet1): test_files\test_spreadsheet\page_images\temp\sheet_001_Sheet1.png
+  Saved sheet 2 (Sheet2): test_files\test_spreadsheet\page_images\temp\sheet_002_Sheet2.png
+  Saved sheet 3 (Sheet3): test_files\test_spreadsheet\page_images\temp\sheet_003_Sheet3.png
+  Saved sheet 4 (Sheet4): test_files\test_spreadsheet\page_images\temp\sheet_004_Sheet4.png
+  Saved sheet 5 (Sheet5): test_files\test_spreadsheet\page_images\temp\sheet_005_Sheet5.png
+  Saved sheet 6 (Sheet6): test_files\test_spreadsheet\page_images\temp\sheet_006_Sheet6.png
+  Saved sheet 7 (Sheet7): test_files\test_spreadsheet\page_images\temp\sheet_007_Sheet7.png
+  Saved sheet 8 (Sheet8): test_files\test_spreadsheet\page_images\temp\sheet_008_Sheet8.png
+  Saved sheet 9 (Sheet9): test_files\test_spreadsheet\page_images\temp\sheet_009_Sheet9.png
+  Saved sheet 10 (Sheet10): test_files\test_spreadsheet\page_images\temp\sheet_010_Sheet10.png
+  Saved sheet 11 (Sheet11): test_files\test_spreadsheet\page_images\temp\sheet_011_Sheet11.png
+  Saved sheet 12 (Sheet12): test_files\test_spreadsheet\page_images\temp\sheet_012_Sheet12.png
+  Saved sheet 13 (Sheet13): test_files\test_spreadsheet\page_images\temp\sheet_013_Sheet13.png
+  Saved sheet 14 (Sheet14): test_files\test_spreadsheet\page_images\temp\sheet_014_Sheet14.png
+  Saved sheet 15 (Sheet15): test_files\test_spreadsheet\page_images\temp\sheet_015_Sheet15.png
+  Saved sheet 16 (Sheet16): test_files\test_spreadsheet\page_images\temp\sheet_016_Sheet16.png
+  Saved sheet 17 (Sheet17): test_files\test_spreadsheet\page_images\temp\sheet_017_Sheet17.png
+{
+  "status": "success",
+  "exit_code": 12,
+  "pages_processed": 17,
+  "text_extracted": true,
+  "images_count": 17,
+  "ocr_performed": false,
+  "heuristic_applied": true,
+  "output_files": {
+    "processed": "test_files\\test_spreadsheet\\test_spreadsheet.txt",
+    "images_analysis": "test_files\\test_spreadsheet\\test_spreadsheet_images_analysis.txt",
+    "page_images_folder": "test_files\\test_spreadsheet\\page_images\\"
+  },
+  "processing_time": 3.96,
+  "errors": []
+}

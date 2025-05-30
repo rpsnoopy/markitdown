@@ -1,0 +1,11 @@
+# Complex Document
+
+## Section 1
+
+Content with *emphasis* and `code`.
+
+| Name | Value |
+| --- | --- |
+| Item 1 | 100 |
+
+Footer content

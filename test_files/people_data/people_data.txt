@@ -1,0 +1,7 @@
+| name | age | city | country  |
+| --- | --- | --- | --- |
+| John Doe | 30 | New York | USA  |
+| Jane Smith | 25 | London | UK  |
+| Marco Rossi | 35 | Rome | Italy  |
+| Marie Dubois | 28 | Paris | France  |
+| Hans Mueller | 40 | Berlin | Germany  |

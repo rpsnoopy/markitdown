@@ -1,0 +1,753 @@
+## Sheet1
+| Generali Italia S.p.A. |
+| --- |
+| GENERASALUTE RSM |
+| Contratto di assicurazione malattie per aziende |
+| Rimborso Spese Mediche |
+| (Mod. M85/854.std - ed. 05/2022) |
+| CONTRAENTE METASALUTE – 440927615 |
+| Opzione Plus |
+
+## Sheet2
+| Data ultimo aggiornamento: 25/05/2022 | Unnamed: 1 | Unnamed: 2 |
+| --- | --- | --- |
+| NaN | Edizione 05.2022 | GENERASalute RSM |
+| Pagina 2 di 2 – Copertina | NaN | NaN |
+
+## Sheet3
+| ART. 1 DEFINIZIONI | Unnamed: 1 | Unnamed: 2 |
+| --- | --- | --- |
+| Annualità | Il periodo che intercorre tra la data di decorrenza e la prima data di scadenza del contratto. | NaN |
+| assicurativa | Per le annualità assicurative successive è il periodo che intercorre tra la data di rinnovo e la | NaN |
+| NaN | successiva data di scadenza. \nLa persona in favore della quale è prestata l’assicurazione. | NaN |
+| Assicurato | NaN | NaN |
+| Assicurazione | Il contratto GeneraSalute RSM (Mod. M85/854). | NaN |
+| Assistenza infermie- | L’assistenza infermieristica professionale prestata da personale fornito di specifico diploma | NaN |
+| ristica | NaN | NaN |
+| Centrale Operativa | La struttura costituita da medici, tecnici ed operatori che, in virtù di specifica convenzione | NaN |
+| Medica | sottoscritta con Generali Italia, provvede per incarico di quest’ultima al contatto telefonico con | NaN |
+| NaN | l’Assicurato ed organizza ed eroga nei casi previsti le prestazioni garantite “in rete conven- | NaN |
+| NaN | zionata” dal contratto. | NaN |
+| Condizioni di assicu- | Il documento che disciplina il contratto di assicurazione. | NaN |
+| razione | NaN | NaN |
+| Contraente | La persona giuridica che stipula il contratto di assicurazione. | NaN |
+| Day Hospital/Day | La degenza in istituto di cura limitata a una sola parte della giornata. | NaN |
+| Surgery | NaN | NaN |
+| NaN | NaN | NaN |
+| Difetto fisico | La deviazione del normale assetto morfologico di un organismo o parti di esso dovuto a svi- | NaN |
+| NaN | luppo somatico in soggetti già costituzionalmente predisposti o a condizioni traumatiche ac- | NaN |
+| NaN | quisite | NaN |
+| Durata contrattuale | Il periodo durante il quale il contratto è efficace. | NaN |
+| Franchigia | L’importo prestabilito che rimane a carico dell’Assicurato. Tale importo viene detratto | NaN |
+| NaN | dall’ammontare dell’indennizzo. Per le garanzie che prevedono un’indennità per ciascun | NaN |
+| NaN | giorno di ricovero è il numero di giorni per i quali non viene corrisposta l’indennità all’Assicu- | NaN |
+| NaN | rato. | NaN |
+| Generali Italia | L’impresa assicuratrice Generali Italia S.p.A., con sede legale in Mogliano Veneto, via Maroc- | NaN |
+| NaN | chesa 14. | NaN |
+| Indennizzo | La somma dovuta da Generali Italia in caso di sinistro. | NaN |
+| Infortunio | L’evento dovuto a causa fortuita, violenta ed esterna che produca lesioni corporali obiettiva- | NaN |
+| NaN | mente constatabili. | NaN |
+| Intervento Chirur- | L’atto cruento, manuale o strumentale, eseguito a fini terapeutici che richiede l’uso della sala | NaN |
+| gico | operatoria. Può avvenire in regime di ricovero ordinario o day surgery con o senza degenza. | NaN |
+| Intervento Chirur- | La prestazione chirurgica, senza degenza, effettuata in ambulatorio o ambulatorio protetto, in | NaN |
+| gico Ambulatoriale | anestesia locale e/o analgesia anche comportante suture, diatermocoagulazione, crioterapia, | NaN |
+| NaN | biopsia, endoscopia con biopsia, ago aspirato, infiltrazioni articolari. | NaN |
+| Istituto di Cura | NaN | NaN |
+| NaN | L’ospedale, la clinica o la casa di cura in Italia o all’estero, regolarmente autorizzati, in base | NaN |
+| NaN | ai requisiti di legge e dalle competenti autorità, al ricovero ed eventualmente all’assistenza | NaN |
+| NaN | sanitaria ambulatoriale anche in regime di degenza diurna. | NaN |
+| IVASS | L’Istituto per la Vigilanza sulle Assicurazioni. | NaN |
+| Malattia | L’alterazione dello stato di salute non dipendente da infortunio che necessiti di prestazioni | NaN |
+| NaN | diagnostiche e trattamenti terapeutici. | NaN |
+| Malattia oncologica | La malattia determinata dalla presenza di neoplasia benigna o maligna; sono incluse le leu- | NaN |
+| NaN | cemie, i linfomi, il morbo di Hodgkin, il cancro in situ; sono inoltre compresi i tumori con inva- | NaN |
+| NaN | sione diretta degli organi vicini, in fase metastatica e le recidive. | NaN |
+| Premio | La somma dovuta dai singoli assicurati a Generali Italia. | NaN |
+| Polizza | Il documento che prova l’assicurazione e definisce il perimetro di tutte le garanzie attive. | NaN |
+| Protesi | Il dispositivo con carattere anatomico-funzionale usato per sostituire parzialmente o total- | NaN |
+| NaN | mente una parte del corpo umano non più in grado di operare correttamente. | NaN |
+| Ricovero | La degenza in istituto di cura comportante almeno un pernottamento. | NaN |
+| Rischio | La probabilità del verificarsi del sinistro. | NaN |
+| Scoperto | L’importo prestabilito che rimane a carico dell’Assicurato, espresso in misura percentuale | NaN |
+| NaN | sull’ammontare dell’indennizzo. | NaN |
+| Sinistro | Il verificarsi del fatto dannoso per cui è prestata l’assicurazione. | NaN |
+| Strutture Mediche | Le strutture sanitarie costituite da istituti di cura, ambulatori medici e medici, convenzionati | NaN |
+| Convenzionate | con la Centrale Operativa Medica, che forniscono le prestazioni il cui costo viene sostenuto | NaN |
+| NaN | da Generali Italia, in nome e per conto dell’Assicurato, nei limiti di quanto previsto dalle con- | NaN |
+| NaN | dizioni contrattuali. | NaN |
+| Condizioni di assicurazione | NaN | NaN |
+| NaN | Edizione 05.2022 | GENERASalute RSM |
+
+## Sheet4
+| Ticket sanitario | Unnamed: 1 | Il contributo pagato per la prestazione a carico del Servizio Sanitario Nazionale, erogata da | Unnamed: 3 | Unnamed: 4 |
+| --- | --- | --- | --- | --- |
+| NaN | NaN | una struttura del SSN o da una struttura privata con questo accreditata. | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN |
+| SSN (Servizio Sanita- | NaN | Il servizio sanitario erogato dello Stato Italiano. | NaN | NaN |
+| rio Nazionale) | NaN | NaN | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN |
+| CHI ASSICURIAMO | NaN | NaN | NaN | NaN |
+| Art. 2 Assicurati | NaN | NaN | NaN | NaN |
+| Sono Assicurati: | NaN | NaN | NaN | NaN |
+| i lavoratori che hanno cessato l'attività lavorativa e maturato 2 anni di anzianità di iscrizione al Fondo Metasalute in ma- | NaN | NaN | NaN | NaN |
+| niera continuativa all'atto di andare in pensione come da CCNL 05.02.2021. | NaN | NaN | NaN | NaN |
+| Sono altresì compresi i lavoratori che abbiano i requisiti soprarichiamati e che: | NaN | NaN | NaN | NaN |
+| - | sono beneficiari degli istituti legali disposti dal legislatore per un periodo necessario per maturare i requisiti per | NaN | NaN | NaN |
+| NaN | il trattamento di pensione effettivo; | NaN | NaN | NaN |
+| - | NaN | NaN | NaN | NaN |
+| NaN | non ancora titolari di pensione che abbiano fatto regolare richiesta di pensione all’Ente preposto. | NaN | NaN | NaN |
+| I lavoratori che hanno maturato i suddetti criteri potranno essere assicurati previa verifica dei requisiti legittimanti l’iscri- | NaN | NaN | NaN | NaN |
+| zione da parte di Generali Italia. | NaN | NaN | NaN | NaN |
+| Che cosa è assicurato? | NaN | NaN | NaN | NaN |
+| Art. 3 Rischi assicurati | NaN | NaN | NaN | NaN |
+| Generali Italia rimborsa le spese sanitarie rese necessarie da malattia o infortunio e verificatisi nell’anno assicurativo. | NaN | NaN | NaN | NaN |
+| Le singole Garanzie, descritte negli articoli che seguono, sono prestate fino a concorrenza dei massimali, entro gli | NaN | NaN | NaN | NaN |
+| eventuali limiti di indennizzo e con l’applicazione delle franchigie e degli scoperti indicati negli articoli stessi e/o nell’art. | NaN | NaN | NaN | NaN |
+| 10 Tabella franchigie, scoperti, massimali e limiti di indennizzo. | NaN | NaN | NaN | NaN |
+| La presente assicurazione si intende prestata indipendentemente e ad integrazione del SSN. | NaN | NaN | NaN | NaN |
+| Se l’Assicurato paga soltanto il ticket previsto dal SSN per la prestazione effettuata Generali Italia rimborserà l’intero | NaN | NaN | NaN | NaN |
+| importo. | NaN | NaN | NaN | NaN |
+| Art. 4 Rimborso spese ospedaliere e chirurgiche | NaN | NaN | NaN | NaN |
+| Che cosa è assicurato | NaN | NaN | NaN | NaN |
+| Generali Italia riconosce le spese sanitarie sostenute in caso di: | NaN | NaN | NaN | NaN |
+| Art. 4.1 Intervento chirurgico effettuato in regime di ricovero in istituto di cura, Day Hospital o in | NaN | NaN | NaN | NaN |
+| ambulatorio: | NaN | NaN | NaN | NaN |
+| - | onorari dell’équipe chirurgica, i diritti di sala operatoria ed i materiali di intervento, comprese le endoprotesi | NaN | NaN | NaN |
+| NaN | applicate durante l’intervento; le spese per interventi chirurgici con utilizzo di tecnica robotica sono | NaN | NaN | NaN |
+| NaN | riconosciuti solo se effettuati in strutture convenzionate; | NaN | NaN | NaN |
+| - assistenza medica ed infermieristica, cure, trattamenti fisioterapici e rieducativi, medicinali, esami e accertamenti | NaN | NaN | NaN | NaN |
+| diagnostici, riguardanti il periodo di ricovero o sostenuti durante il Day Hospital o in ambulatorio per l’intervento | NaN | NaN | NaN | NaN |
+| chirurgico; | NaN | NaN | NaN | NaN |
+| - rette di degenza; | NaN | NaN | NaN | NaN |
+| - esami, accertamenti diagnostici e visite specialistiche, effettuati nei 90 giorni precedenti la data dell’intervento | NaN | NaN | NaN | NaN |
+| chirurgico o il ricovero in istituto di cura, purché direttamente inerenti alla malattia o all’infortunio che ha deter- | NaN | NaN | NaN | NaN |
+| minato il ricorso alle prestazioni; | NaN | NaN | NaN | NaN |
+| - esami e visite specialistiche, medicine, prestazioni mediche ed infermieristiche, acquisto e/o noleggio di apparec- | NaN | NaN | NaN | NaN |
+| chi protesici e sanitari comprese le carrozzelle ortopediche, trattamenti fisioterapici o rieducativi, cure termali | NaN | NaN | NaN | NaN |
+| (escluse in ogni caso le spese di natura alberghiera), effettuati nei 120 giorni successivi alla data dell’inter- | NaN | NaN | NaN | NaN |
+| vento o della dimissione dal ricovero, purché direttamente inerenti alla malattia o all’infortunio che ha | NaN | NaN | NaN | NaN |
+| determinato il ricorso alle prestazioni; | NaN | NaN | NaN | NaN |
+| - prelievo di organi o parte di essi; ricovero relativo al donatore e gli accertamenti diagnostici, assistenza medica | NaN | NaN | NaN | NaN |
+| ed infermieristica, intervento chirurgico di espianto, cure, medicinali e rette di degenza; | NaN | NaN | NaN | NaN |
+| - vitto e pernottamento in istituto di cura, o struttura alberghiera ove non sussista disponibilità ospedaliera, per | NaN | NaN | NaN | NaN |
+| un accompagnatore dell’Assicurato con il limite giornaliero di € 60 e per una durata non superiore al ricovero, | NaN | NaN | NaN | NaN |
+| con un massimo di 30 giorni per annualità assicurativa; | NaN | NaN | NaN | NaN |
+| - trasporto dell’Assicurato in autoambulanza all’istituto di cura e viceversa, col massimo di € 1.100 per | NaN | NaN | NaN | NaN |
+| intervento o ricovero; | NaN | NaN | NaN | NaN |
+| GENERASalute RSM | NaN | NaN | Edizione 05.2022 | Condizioni di assicurazione |
+
+## Sheet5
+| - | trasporto dell’Assicurato e di un eventuale accompagnatore all’estero e successivo ritorno, in treno o in aereo | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 |
+| --- | --- | --- | --- | --- | --- |
+| NaN | di linea (esclusa auto privata), col massimo di € 2.000 per intervento o ricovero; | NaN | NaN | NaN | NaN |
+| - | NaN | NaN | NaN | NaN | NaN |
+| NaN | in caso di decesso conseguente ad intervento chirurgico avvenuto all’estero, l’assicurazione è estesa al | NaN | NaN | NaN | NaN |
+| NaN | rimborso delle spese per il rimpatrio della salma fino ad un massimo di € 1.600. | NaN | NaN | NaN | NaN |
+| Ci sono limiti di copertura | NaN | NaN | NaN | NaN | NaN |
+| Le spese mediche sostenute per gli interventi chirurgici indicati nella tabella seguente vengono rimborsate entro il | NaN | NaN | NaN | NaN | NaN |
+| limite di indennizzo indicato A questi interventi chirurgici verrà sempre applicato lo scoperto e franchigia previsti per | NaN | NaN | NaN | NaN | NaN |
+| gli interventi chirurgici in rete (v. art. 10). | NaN | NaN | NaN | NaN | NaN |
+| Descrizione pacchetto | NaN | NaN | NaN | NaN | Limite di inden- |
+| NaN | NaN | NaN | NaN | NaN | nizzo fuori rete |
+| Facoemulsificazione ed Asportazione di cataratta ed impianto di cristallino artificiale | NaN | NaN | NaN | NaN | 2000 |
+| (IOL- neutra) in camera anteriore o posteriore (qualsiasi tecnica- ad occhio). Tariffa com- | NaN | NaN | NaN | NaN | NaN |
+| prensiva di: equipe medica, sala operatoria, permanenza nella struttura, materiali, medici- | NaN | NaN | NaN | NaN | NaN |
+| nali, protesi, analisi ed accertamenti relativi all'intervento. | NaN | NaN | NaN | NaN | NaN |
+| Riparazione di ernia ombelicale o inguinale semplice comprensiva di eventuale protesi | NaN | NaN | NaN | NaN | 2700 |
+| (qualsiasi tecnica chirurgica). Tariffa comprensiva di: equipe medica, sala operatoria, per- | NaN | NaN | NaN | NaN | NaN |
+| manenza nella struttura, materiali, medicinali, protesi, analisi ed accertamenti relativi all'in- | NaN | NaN | NaN | NaN | NaN |
+| tervento. | NaN | NaN | NaN | NaN | NaN |
+| Sindromi canalicolari, trattamento completo (tunnel carpale, S. di Guyon, compressione | NaN | NaN | NaN | NaN | 1540 |
+| del nervo ulnare alla doccia epitroclea-oleocranico, ecc.). Tariffa comprensiva di: equipe | NaN | NaN | NaN | NaN | NaN |
+| medica, sala operatoria, permanenza nella struttura, materiali, medicinali, protesi, analisi | NaN | NaN | NaN | NaN | NaN |
+| ed accertamenti relativi all'intervento. | NaN | NaN | NaN | NaN | NaN |
+| Trattamento chirurgico dito a martello Tariffa comprensiva di: equipe medica, sala ope- | NaN | NaN | NaN | NaN | 1300 |
+| ratoria, permanenza nella struttura, materiali, medicinali, protesi, analisi ed accertamenti | NaN | NaN | NaN | NaN | NaN |
+| relativi all'intervento. | NaN | NaN | NaN | NaN | NaN |
+| Trattamento chirurgico dito a scatto Tariffa comprensiva di: equipe medica, sala opera- | NaN | NaN | NaN | NaN | 1200 |
+| toria, permanenza nella struttura, materiali, medicinali, protesi, analisi ed accertamenti re- | NaN | NaN | NaN | NaN | NaN |
+| lativi all'intervento. | NaN | NaN | NaN | NaN | NaN |
+| Legatura emorroidi Tariffa comprensiva di: equipe medica, sala operatoria, permanenza | NaN | NaN | NaN | NaN | 300 |
+| nella struttura, materiali, medicinali, protesi, analisi ed accertamenti relativi all'intervento. | NaN | NaN | NaN | NaN | NaN |
+| Biopsia della prostata Tariffa comprensiva di: equipe medica, sala operatoria, perma- | NaN | NaN | NaN | NaN | 415 |
+| nenza nella struttura (escluso esame istologico). | NaN | NaN | NaN | NaN | NaN |
+| Agobiopsia mammella Tariffa comprensiva di: equipe medica, sala operatoria, perma- | NaN | NaN | NaN | NaN | 250 |
+| nenza nella struttura (escluso esame istologico). | NaN | NaN | NaN | NaN | NaN |
+| Laser ad eccimeri - Lasik, Lasek, PRK, Epilasik e consimili. Tariffa comprensiva di: equipe | NaN | NaN | NaN | NaN | 1200 |
+| medica, sala operatoria, permanenza nella struttura, materiali, medicinali, protesi, analisi ed | NaN | NaN | NaN | NaN | NaN |
+| accertamenti relativi all'intervento. | NaN | NaN | NaN | NaN | NaN |
+| Lesioni cutanee, trattamento e /o asportazione. Tariffa comprensiva di: equipe medica, sala | NaN | NaN | NaN | NaN | 350 |
+| operatoria, permanenza nella struttura, materiali, medicinali, protesi, analisi ed accer- tamenti | NaN | NaN | NaN | NaN | NaN |
+| relativi all'intervento. | NaN | NaN | NaN | NaN | NaN |
+| Art. 4.2 Ricovero in istituto di cura od in regime di Day Hospital, o prestazioni in regime ambulatoriale | NaN | NaN | NaN | NaN | NaN |
+| che non comporti intervento chirurgico: | NaN | NaN | NaN | NaN | NaN |
+| - | NaN | assistenza medica ed infermieristica, cure trattamenti fisioterapici e rieducativi, medicinali, esami ed | NaN | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN |
+| - | NaN | accertamenti diagnostici riguardanti il periodo di ricovero o sostenuti durante il Day Hospital; | NaN | NaN | NaN |
+| NaN | NaN | esami, accertamenti diagnostici e visite specialistiche, effettuati nei 90 giorni precedenti il ricovero in | NaN | NaN | NaN |
+| NaN | NaN | istituto di cura, purché direttamente inerenti alla malattia o all’infortunio che ha determinato il ricorso alle | NaN | NaN | NaN |
+| NaN | NaN | prestazioni; | NaN | NaN | NaN |
+| - | NaN | rette di degenza; | NaN | NaN | NaN |
+| - | NaN | esami e visite specialistiche, medicine, prestazioni mediche ed infermieristiche, acquisto e/o noleggio di | NaN | NaN | NaN |
+| NaN | NaN | apparec- chi protesici e sanitari comprese le carrozzelle ortopediche, trattamenti fisioterapici o rieducativi, cure | NaN | NaN | NaN |
+| NaN | NaN | termali (escluse in ogni caso le spese di natura alberghiera), effettuati nei 120 giorni successivi alla | NaN | NaN | NaN |
+| NaN | NaN | dimissione dal ricovero purché direttamente inerenti alla malattia o all’infortunio che ha determinato il ricorso | NaN | NaN | NaN |
+| NaN | NaN | alle prestazioni; | NaN | NaN | NaN |
+| GENERASalute RSM | NaN | NaN | Edizione 05.2022 | Condizioni di assicurazione | NaN |
+
+## Sheet6
+| - | trasporto dell’Assicurato in autoambulanza all’istituto di cura e viceversa, col massimo di € 1.100 per ricovero. | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 |
+| --- | --- | --- | --- | --- |
+| Art. 4.3 Precisazioni relative agli scoperti e franchigie per le spese di ricovero | NaN | NaN | NaN | NaN |
+| Ci sono limiti di copertura | NaN | NaN | NaN | NaN |
+| Il rimborso delle spese sanitarie di cui ai precedenti artt. 4.1 e 4.2 avviene per ciascun sinistro entro il massimale e previa | NaN | NaN | NaN | NaN |
+| applicazione degli eventuali scoperti e franchigie indicati all’art. 10 Tabella franchigie, scoperti, massimali e limiti di inden- | NaN | NaN | NaN | NaN |
+| nizzo. | NaN | NaN | NaN | NaN |
+| Le spese relative a vitto, pernottamento e trasporto sono riconosciute entro i limiti previsti nei precedenti artt. 4.1 e 4.2 | NaN | NaN | NaN | NaN |
+| senza applicazione di scoperti o franchigie. | NaN | NaN | NaN | NaN |
+| Art. 4.4 Spese pre/post ricovero | NaN | NaN | NaN | NaN |
+| Ci sono limiti di copertura | NaN | NaN | NaN | NaN |
+| Le eventuali spese sanitarie precedenti e successive al ricovero o all’intervento elencate nei precedenti artt. 4.1 e 4.2, | NaN | NaN | NaN | NaN |
+| sono riconosciute previa applicazione di uno scoperto del 15% che rimarrà a carico dell’Assicurato. | NaN | NaN | NaN | NaN |
+| Come si calcola l’indennizzo? | NaN | NaN | NaN | NaN |
+| Esempio: ricovero chirurgico di 3 giorni, speso € 2.000, applicazione di scoperto del 10% col minimo di € 500. Presta- | NaN | NaN | NaN | NaN |
+| zioni pre/post ricovero speso € 200, applicazione di scoperto del 15%. Accompagnatore speso € 300, riconoscimento € | NaN | NaN | NaN | NaN |
+| 60 al dì. Totale speso dall’Assicurato € 2.500. | NaN | NaN | NaN | NaN |
+| Totale riconosciuto all’Assicurato € 1.850: ricovero € 1500 (il 10% di 2.000= 200 e quindi verrà applicato il minimo previ- | NaN | NaN | NaN | NaN |
+| sto di 500); pre/post ricovero € 170 (15% di 200=30); accompagnatore € 180 (60 x3) | NaN | NaN | NaN | NaN |
+| Art. 4.5 Indennità sostitutiva | NaN | NaN | NaN | NaN |
+| Che cosa è assicurato | NaN | NaN | NaN | NaN |
+| Qualora il ricovero o la degenza in regime di Day hospital avvenga in struttura pubblica o in struttura privata accreditata | NaN | NaN | NaN | NaN |
+| con spese a totale carico del SSN - esclusi eventuali ticket - Generali Italia riconosce una indennità sostitutiva: | NaN | NaN | NaN | NaN |
+| - | integralmente per ogni pernottamento in istituto di cura; | NaN | NaN | NaN |
+| - | al 50 % nel caso di Day Hospital. | NaN | NaN | NaN |
+| Le eventuali spese collegate all’intervento elencate agli artt. 4.1 e 4.2 sono comunque oggetto di rimborso da parte di | NaN | NaN | NaN | NaN |
+| Generali Italia in base a quanto indicato agli art. 4.3 e 4.4. | NaN | NaN | NaN | NaN |
+| Ci sono limiti di copertura | NaN | NaN | NaN | NaN |
+| Nell’art. 10 Tabella franchigie, scoperti, massimali e limiti di indennizzo sono indicati l’importo giornaliero e il numero | NaN | NaN | NaN | NaN |
+| massimo di giorni per annualità assicurativa per cui l’indennità viene corrisposta. | NaN | NaN | NaN | NaN |
+| Come si calcola l’indennizzo? | NaN | NaN | NaN | NaN |
+| Esempio: ricovero chirurgico di 3 giorni in struttura del S.S.N, diaria sostitutiva € 100 al dì. Prestazioni pre/post ricovero | NaN | NaN | NaN | NaN |
+| speso € 200, applicazione di scoperto del 15%. Accompagnatore speso € 300, riconoscimento € 60 al dì. Totale speso | NaN | NaN | NaN | NaN |
+| dall’Assicurato € 500. | NaN | NaN | NaN | NaN |
+| Totale riconosciuto all’Assicurato € 650: ricovero €300 (100x3gg di ricovero); pre/post ricovero € 170 (15% di 200=30); | NaN | NaN | NaN | NaN |
+| accompagnatore € 180 (60 x3) | NaN | NaN | NaN | NaN |
+| Art. 4.6 Anticipo | NaN | NaN | NaN | NaN |
+| Che cosa è assicurato | NaN | NaN | NaN | NaN |
+| Nei casi di ricovero per il quale l’istituto di cura richieda il pagamento anticipato di una somma quale deposito, è facoltà | NaN | NaN | NaN | NaN |
+| dell’Assicurato domandare anticipatamente - entro il limite dell’80% della somma assicurata - il rimborso dell’importo | NaN | NaN | NaN | NaN |
+| effettivamente versato a tale titolo, salvo conguaglio a cure ultimate. | NaN | NaN | NaN | NaN |
+| L’anticipo avverrà a condizione che: | NaN | NaN | NaN | NaN |
+| - | NaN | non sorgano contestazioni sull’indennizzabilità a termini di contratto delle spese di ricovero; | NaN | NaN |
+| - | NaN | sia presentata la certificazione dell’istituto di cura che attesti l’avvenuta richiesta del deposito, il presunto | NaN | NaN |
+| NaN | NaN | ammon- tare delle spese sanitarie, la descrizione della patologia che rende necessario il ricovero o l’intervento | NaN | NaN |
+| NaN | NaN | chirurgico, la data prevista per il ricovero. | NaN | NaN |
+| GENERASalute RSM | NaN | NaN | Edizione 05.2022 | Condizioni di assicurazione |
+
+## Sheet7
+| - | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 |
+| --- | --- | --- | --- |
+| Art. 5 Cure oncologiche | NaN | NaN | NaN |
+| Che cosa è assicurato | NaN | NaN | NaN |
+| Generali Italia rimborsa le spese sostenute per visite specialistiche, accertamenti diagnostici, chemioterapia, radiotera- | NaN | NaN | NaN |
+| pia e immunoterapia rese necessarie da malattia oncologica ed eseguite esclusivamente in regime ambulatoriale o Day | NaN | NaN | NaN |
+| hospital. | NaN | NaN | NaN |
+| Sono compresi in garanzia i protocolli rientranti negli studi clinici relativi a sperimentazioni riconosciute dall’AIFA. | NaN | NaN | NaN |
+| Ci sono limiti di copertura | NaN | NaN | NaN |
+| La garanzia è operante fino a concorrenza del massimale indicato all’art. 10 Tabella franchigie, scoperti, massimali e | NaN | NaN | NaN |
+| limiti di indennizzo. Il rimborso delle spese avviene previa presentazione della prescrizione medica con relativo quesito | NaN | NaN | NaN |
+| dia- gnostico. | NaN | NaN | NaN |
+| Art. 6 Prestazioni diagnostiche ad alta specializzazione | NaN | NaN | NaN |
+| Che cosa è assicurato | NaN | NaN | NaN |
+| Generali Italia rimborsa le spese sanitarie sostenute a seguito di malattia od infortunio per le seguenti prestazioni diagno- | NaN | NaN | NaN |
+| stiche ad alta specializzazione, non collegate a ricovero: Angiografia, Arteriografia, Cistografia, Coronarografia, | NaN | NaN | NaN |
+| Doppler, Ecocardiografia, Elettromiografia, Endoscopia, Esame urodinamico completo, Holter, Isterosalpingografia, | NaN | NaN | NaN |
+| Mineralogia Ossea Computerizzata (MOC), Risonanza Magnetica Nucleare (RMN), Scintigrafia, Tomografia ad | NaN | NaN | NaN |
+| emissione di positroni (PET), Tomografia Assiale Computerizzata (TAC), Urografia. | NaN | NaN | NaN |
+| Si intendono comprese in questa garanzia le spese sostenute per l’acquisto e riparazione di protesi ortopediche e appa- | NaN | NaN | NaN |
+| recchi acustici. | NaN | NaN | NaN |
+| Si intendono comprese in questa garanzia le spese sostenute a seguito di malattia od infortunio per: | NaN | NaN | NaN |
+| - | onorari dei medici per visite specialistiche (escluse le visite odontoiatriche ed ortodontiche) intendendosi per | NaN | NaN |
+| NaN | tali quelle effettuate da medico fornito di regolare specializzazione conseguita presso la facoltà di medicina e | NaN | NaN |
+| NaN | chirur- gia; | NaN | NaN |
+| - | analisi ed esami diagnostici e di laboratorio, purché pertinenti alla malattia od infortunio denunciati. | NaN | NaN |
+| Ci sono limiti di copertura | NaN | NaN | NaN |
+| Il massimale annuo a disposizione e quanto rimane a carico dell’Assicurato sono indicati nell’art. 10 Tabella franchigie, | NaN | NaN | NaN |
+| scoperti, massimali e limiti di indennizzo. | NaN | NaN | NaN |
+| Lo scoperto o franchigia che rimane a carico dell’Assicurato viene applicato alla spesa sostenuta per ciascuna presta- | NaN | NaN | NaN |
+| zione. | NaN | NaN | NaN |
+| Il rimborso delle spese avviene previa presentazione della prescrizione medica con relativo quesito diagnostico. | NaN | NaN | NaN |
+| ATTENZIONE: si considerano unica prestazione anche la visita specialistica e l’accertamento connessi a medesima | NaN | NaN | NaN |
+| patologia, contestualmente prescritti dal medico e presentati a Generali Italia in un’unica richiesta di rimborso. | NaN | NaN | NaN |
+| Art. 7 Trattamenti fisioterapici | NaN | NaN | NaN |
+| Che cosa è assicurato | NaN | NaN | NaN |
+| Generali Italia rimborsa le spese sanitarie sostenute a seguito di malattia od infortunio per i trattamenti fisioterapici e | NaN | NaN | NaN |
+| riabilitativi (compresa la logopedia e l’ortottica). Rientrano in questa garanzia le infiltrazioni a fini fisioterapici. Si precisa | NaN | NaN | NaN |
+| che i trattamenti devono essere prescritti da medico specialista e possono essere svolti o all’interno di un centro specia- | NaN | NaN | NaN |
+| lizzato o eseguiti da persone iscritte al relativo Albo delle figure professionali riconosciute dagli elenchi delle Arti e Pro- | NaN | NaN | NaN |
+| fessioni sanitarie. | NaN | NaN | NaN |
+| In caso di infortunio si precisa che lo stesso deve essere documentato da certificazione della struttura di Pronto Soccorso | NaN | NaN | NaN |
+| o altra analoga struttura ospedaliera a cui si è fatto immediato ricorso. Si precisa altresì che saranno ammesse a rimborso | NaN | NaN | NaN |
+| soltanto le prestazioni effettuate entro 2 anni dalla data dell’evento, purché in vigenza di polizza. | NaN | NaN | NaN |
+| Ci sono limiti di copertura | NaN | NaN | NaN |
+| Il massimale annuo a disposizione e quanto rimane a carico dell’Assicurato sono indicati nell’art. 10 Tabella franchigie, | NaN | NaN | NaN |
+| scoperti, massimali e limiti di indennizzo. | NaN | NaN | NaN |
+| L’eventuale scoperto o franchigia viene applicato alla spesa sostenuta per ciascuna prestazione o ciclo di terapia. | NaN | NaN | NaN |
+| ATTENZIONE: in presenza di ciclo di cura la richiesta di rimborso deve essere fatta a conclusione del ciclo con la | NaN | NaN | NaN |
+| prescrizione del medico specialista nella patologia. | NaN | NaN | NaN |
+| GENERASalute RSM | NaN | Edizione 05.2022 | Condizioni di assicurazione |
+
+## Sheet8
+| Art. 8 Cure dentarie | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 |
+| --- | --- | --- | --- |
+| Che cosa è assicurato | NaN | NaN | NaN |
+| Generali Italia rimborsa, a deroga dell’art. 13 Esclusioni - lett. K), le spese sostenute per le prestazioni dentarie indicate | NaN | NaN | NaN |
+| nella tabella dell’art. 10. | NaN | NaN | NaN |
+| Ci sono limiti di copertura | NaN | NaN | NaN |
+| Il massimale annuo a disposizione e quanto rimane a carico dell’Assicurato sono indicati nell’art. 10 Tabella franchigie, | NaN | NaN | NaN |
+| scoperti, massimali e limiti di indennizzo. | NaN | NaN | NaN |
+| L’eventuale scoperto o franchigia viene applicato alla spesa sostenuta e documentata dall’Assicurato. | NaN | NaN | NaN |
+| Art. 9 Interventi Chirurgici Odontoiatrici Extraricovero | NaN | NaN | NaN |
+| La Società rimborsa le seguenti spese sostenute per interventi chirurgici odontoiatrici extraricovero: | NaN | NaN | NaN |
+| - | Adamantinoma | NaN | NaN |
+| - | Ascesso dentario in presenza di strumento endodontico nel lume canalare | NaN | NaN |
+| - | Cisti follicolari | NaN | NaN |
+| - | Cisti radicolari | NaN | NaN |
+| - | Odontoma | NaN | NaN |
+| - | Osteiti che coinvolgano almeno un terzo dell’osso mascellare o mandibolare | NaN | NaN |
+| Ci sono limiti di copertura | NaN | NaN | NaN |
+| La garanzia è operante fino a concorrenza del massimale indicato all’art. 10 Tabella franchigie, scoperti, massimali e limiti | NaN | NaN | NaN |
+| di indennizzo. | NaN | NaN | NaN |
+| Art. 10 TABELLA FRANCHIGIE, SCOPERTI, MASSIMALI E LIMITI DI INDENNIZZO | NaN | NaN | NaN |
+| Ad integrazione di quanto indicato nelle singole garanzie valgono i limiti riportati nella tabella che segue. | NaN | NaN | NaN |
+| Il massimale indicato nella tabella è da intendersi come disponibilità unica per annualità assicurativa e per persona in | NaN | NaN | NaN |
+| base a quanto indicato nell’art. 2 Assicurati. | NaN | NaN | NaN |
+| Il rimborso delle spese indennizzabili a termini di contratto avviene per ogni garanzia fino a concorrenza del relativo | NaN | NaN | NaN |
+| massimale e previa eventuale applicazione dello scoperto e/o della franchigia indicati nel relativo articolo o nella | NaN | NaN | NaN |
+| seguente tabella. | NaN | NaN | NaN |
+| Qualora siano operanti sia la franchigia che lo scoperto, in caso di sinistro Generali Italia indennizzerà all’Assicurato le | NaN | NaN | NaN |
+| spese previa deduzione della percentuale di scoperto con il minimo dell’importo della franchigia. | NaN | NaN | NaN |
+| L’applicazione degli scoperti e delle franchigie si intende riferita all’ammontare delle spese indennizzabili a termini di | NaN | NaN | NaN |
+| contratto, effettivamente sostenute e documentate dall’Assicurato. | NaN | NaN | NaN |
+| Come si calcola l’indennizzo? | NaN | NaN | NaN |
+| Garanzia Fisioterapia: Massimale € 1.000, a carico dell’Assicurato scoperto del 10% con minimo € 100 | NaN | NaN | NaN |
+| Esempio 1: speso € 1.500, rimborso € 1.000 il massimale | NaN | NaN | NaN |
+| Esempio 2: speso € 1.100, rimborso € 990. Lo scoperto del 10% applicato alla spesa è pari a € 110. Massimale resi- duo € 10. | NaN | NaN | NaN |
+| Esempio 3: speso € 800, rimborso € 700. Lo scoperto del 10% della spesa (€ 80) è minore del minimo e quindi resta a carico | NaN | NaN | NaN |
+| dell’Assicurato € 100. Massimale residuo € 800. | NaN | NaN | NaN |
+| GENERASalute RSM | NaN | Edizione 05.2022 | Condizioni di assicurazione |
+
+## Sheet9
+| Descrizione Garanzia | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Art. | Massimale | Scoperti e franchigie | Unnamed: 10 | Unnamed: 11 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Intervento | NaN | chirurgico | effettuato | NaN | NaN | in | art. 4.1 | € 150.000 | Scoperto: | NaN | NaN |
+| regime di ricovero in istituto di cura, | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | in rete: 30% minimo € 2.500 | NaN | NaN |
+| Day Hospital o ambulatorio | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | intervento ambulatoriale: 40% | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | fuori rete: 40% con franchigia min € 5.000 | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | intervento ambulatoriale: rimborso | NaN | NaN |
+| Retta di degenza | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Limite giornaliero | non previsto | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | € 200 | Ticket: rimborso al 100% | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | art. 4.2 | NaN | NaN | NaN | NaN |
+| Ricovero in istituto di cura od in re- | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Scoperto: | NaN | NaN |
+| gime di Day Hospital, o prestazioni in | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | in rete: 30% minimo € 2.500 | NaN | NaN |
+| regime | ambulatoriale | NaN | che | NaN | non | NaN | NaN | NaN | intervento ambulatoriale: 40% | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| comporti intervento chirurgico | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | fuori rete: 40% con franchigia min € 5.000 | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | intervento ambulatoriale: rimborso | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | non previsto | NaN | NaN |
+| Retta di degenza | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Limite giornaliero | Ticket: rimborso al 100% | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | € 200 | NaN | NaN | NaN |
+| Indennità sostitutiva | NaN | NaN | NaN | NaN | NaN | NaN | art. 4.5 | € 130 Fino al massimo di 100 giorni per annualità assicurativa | NaN | NaN | NaN |
+| Cure oncologiche | NaN | NaN | NaN | NaN | NaN | NaN | art. 5 | € 6.000 | Riconoscimento al 100% della spesa | NaN | NaN |
+| Prestazione diagnostica ad alta spe- | NaN | NaN | NaN | NaN | NaN | NaN | art. 6 | € 10.000 | Scoperto: | NaN | NaN |
+| cializzazione | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | in rete: 40% minimo € 50 | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | fuori rete: rimborso massimo € 55 | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Ticket: rimborso al 100% | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| di cui | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Scoperto: | NaN | NaN |
+| Visite specialistiche ed esami dia- | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | in rete: 40% minimo € 40 | NaN | NaN |
+| gnostici e di laboratorio | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | fuori rete: rimborso non previsto | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Ticket: rimborso al 100% | NaN | NaN |
+| di cui | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Protesi ortopediche e apparecchi | NaN | NaN | NaN | NaN | NaN | NaN | NaN | sottolimite € 500 | Scoperto: 30% minimo € 50 | NaN | NaN |
+| acustici | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Trattamenti fisioterapici | NaN | NaN | NaN | NaN | NaN | NaN | art. 7 | € 500 | Scoperto: | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | in rete: 40% | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | fuori rete: rimborso non previsto | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Ticket: rimborso al 100% | NaN | NaN |
+| Cure dentarie | NaN | NaN | NaN | NaN | NaN | NaN | art. 8 | € 2.000 | Scoperto: | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | in rete | NaN | fuori rete |
+| Visite | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | 0% | NaN | Rimborso non previsto |
+| Igiene orale | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | 0% | NaN | Rimborso non previsto |
+| Visita emergenza | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | 0% | NaN | 20% |
+| Conservativa | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | 50% | NaN | 70% |
+| Radiologia odontoiatrica | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | 10% | NaN | 50% |
+| Chirurgia | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | 10% | NaN | 50% |
+| Endodonzia | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | 50% | NaN | 70% |
+| Paradontologia | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Accesso al tariffario | NaN | Rimborso non previsto |
+| Protesi | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Accesso al tariffario | NaN | Rimborso non previsto |
+| Ortognatodonzia | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Accesso al tariffario | NaN | Rimborso non previsto |
+| Implantologia | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Accesso al tariffario | NaN | Rimborso non previsto |
+| Interventi | NaN | Chirurgici | Odontoiatrici | NaN | NaN | NaN | art. 9 | € 4.000 | Scoperto: | NaN | NaN |
+| Extraricovero | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | in rete: 30% | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | fuori rete: 35% | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | Ticket: rimborso al 100% | NaN | NaN |
+| Che cosa NON è assicurato? | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Art. 11 Persone non assicurabili | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| GENERASalute RSM | NaN | NaN | NaN | Edizione 05.2022 | NaN | NaN | NaN | NaN | NaN | Condizioni di assicurazione | NaN |
+
+## Sheet10
+| Non sono assicurabili le persone affette da alcoolismo, tossicodipendenza; al manifestarsi di tali affezioni nel corso del | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 |
+| --- | --- | --- | --- | --- |
+| contratto, l’assicurazione nei loro confronti viene a cessare indipendentemente dalla concreta valutazione dello stato | NaN | NaN | NaN | NaN |
+| di salute dell’Assicurato. | NaN | NaN | NaN | NaN |
+| Art. 12 Permanenza in assicurazione – Limiti di età | NaN | NaN | NaN | NaN |
+| L’assicurazione vale per le persone di età non superiore a 75 anni. | NaN | NaN | NaN | NaN |
+| Per coloro che compiono i 75 anni in corso di copertura, la stessa vale fino alla fine dell’annualità assicurativa e pertanto | NaN | NaN | NaN | NaN |
+| non si darà seguito al rimborso del Premio che si considera acquisito. | NaN | NaN | NaN | NaN |
+| Ci sono limiti di copertura? | NaN | NaN | NaN | NaN |
+| Art. 13 Esclusioni | NaN | NaN | NaN | NaN |
+| L’assicurazione non comprende: | NaN | NaN | NaN | NaN |
+| a) gli infortuni derivanti dalla pratica degli sport aerei in genere o di qualsiasi sport esercitato professionalmente; | NaN | NaN | NaN | NaN |
+| b) gli infortuni derivanti dalla partecipazione a corse o gare automobilistiche non di regolarità pura, motociclistiche | NaN | NaN | NaN | NaN |
+| e motonautiche, ed alle relative prove ed allenamenti; | NaN | NaN | NaN | NaN |
+| c) gli infortuni determinati da ubriachezza o sofferti sotto influenza di allucinogeni, di stupefacenti e di psicofarmaci, | NaN | NaN | NaN | NaN |
+| nonché in conseguenza di proprie azioni dolose delittuose; | NaN | NaN | NaN | NaN |
+| d) gli infortuni sofferti e le malattie verificatesi durante lo svolgimento del servizio di leva od il servizio sostitutivo | NaN | NaN | NaN | NaN |
+| di questo, l’arruolamento volontario, il richiamo per mobilitazione o per motivi di carattere eccezionale; | NaN | NaN | NaN | NaN |
+| e) le cure e gli interventi per l’eliminazione o correzione di difetti fisici preesistenti alla stipulazione del contratto; | NaN | NaN | NaN | NaN |
+| ATTENZIONE: a titolo esemplificativo e non esaustivo sono interventi per l’eliminazione o correzione di difetti | NaN | NaN | NaN | NaN |
+| fisici: piattismo bilaterale, scoliosi, alluce valgo, varismo delle ginocchia, anca valga, piede torto | NaN | NaN | NaN | NaN |
+| f) | l’intervento per deviazione del setto nasale, se non a seguito di evento traumatico documentato da certificato | NaN | NaN | NaN |
+| NaN | di pronto soccorso, anche se abbinato ad ipertrofia dei turbinati o poliposi; | NaN | NaN | NaN |
+| g) le cure e le visite specialistiche relative a malattie mentali e disturbi psichici in genere compresi i comportamenti | NaN | NaN | NaN | NaN |
+| nevrotici; | NaN | NaN | NaN | NaN |
+| h) le intossicazioni conseguenti ad abuso di alcoolici e ad uso di allucinogeni, nonché ad uso non terapeutico di | NaN | NaN | NaN | NaN |
+| NaN | psicofarmaci e di stupefacenti; | NaN | NaN | NaN |
+| i) | le cure e gli interventi finalizzati al trattamento dell’infertilità e comunque quelli relativi all’inseminazione | NaN | NaN | NaN |
+| NaN | artificiale, compresi tutti gli accertamenti effettuati dopo la prima diagnosi e propedeutici alle terapie; | NaN | NaN | NaN |
+| j) | NaN | NaN | NaN | NaN |
+| NaN | prestazioni mediche, trattamenti e interventi chirurgici aventi finalità estetiche nonché tutte le cure ad essi colle- | NaN | NaN | NaN |
+| NaN | gabili o conseguenti a precedenti interventi chirurgici o cure a fine estetico. Fanno eccezione alla presente esclu- | NaN | NaN | NaN |
+| NaN | sione le prestazioni aventi finalità ricostruttiva conseguenti ad infortunio o intervento chirurgico oncologico. | NaN | NaN | NaN |
+| NaN | Rela- tivamente all’applicazione di endoprotesi mammarie per ricostruzione a seguito di neoplasia maligna | NaN | NaN | NaN |
+| NaN | sono com- prese solo quelle relative alla sede anatomica della lesione e sono esclusi gli interventi successivi | NaN | NaN | NaN |
+| NaN | alla prima applicazione; | NaN | NaN | NaN |
+| NaN | NaN | NaN | NaN | NaN |
+| NaN | ATTENZIONE: a titolo esemplificativo e non esaustivo sono interventi estetici: mastoplastica, blefaropla- | NaN | NaN | NaN |
+| NaN | stica, aspirazione della cute e del tessuto cutaneo, rinoplastica, trapianto di capelli, liposuzione, ad- | NaN | NaN | NaN |
+| NaN | dominoplastica, cisti adipose, chirurgia bariatrica con indice di massa corporea minore di 30 BMI, com- | NaN | NaN | NaN |
+| NaN | prese le relative terapie dietologica e dietoterapica | NaN | NaN | NaN |
+| k) le protesi dentarie ed ortodontiche, le cure dentarie e del paradonzio, gli interventi preprotesici e di implantologia; | NaN | NaN | NaN | NaN |
+| l) | le conseguenze dirette ed indirette di trasmutazioni del nucleo dell’atomo, come pure di radiazioni provocate | NaN | NaN | NaN |
+| NaN | dall’accelerazione artificiale di particelle atomiche salvo che siano causate da radiazioni utilizzate per terapie | NaN | NaN | NaN |
+| NaN | mediche; | NaN | NaN | NaN |
+| m) le conseguenze derivanti da guerra, insurrezione, movimenti tellurici, eruzioni vulcaniche; | NaN | NaN | NaN | NaN |
+| n) degenze in case di riposo, in strutture di lungodegenza o residenze sanitarie assistenziali, di convalescenza, | NaN | NaN | NaN | NaN |
+| di soggiorno, stabilimenti o centri di cura termali, idroterapici, fitoterapici, dietologici o del benessere; | NaN | NaN | NaN | NaN |
+| o) ricoveri per stati vegetativi, ricoveri per lunga degenza intendendosi per tali quelli determinati da condizioni | NaN | NaN | NaN | NaN |
+| fisiche dell’Assicurato che non consentono più la guarigione con trattamenti medici e che diano luogo alla | NaN | NaN | NaN | NaN |
+| permanenza in Istituto di cura per interventi di carattere assistenziale o fisioterapico di mantenimento; | NaN | NaN | NaN | NaN |
+| p) cure non rientranti nei protocolli riconosciuti dall’Istituto Superiore della Sanità; | NaN | NaN | NaN | NaN |
+| q) i ricoveri ed i Day hospital durante i quali vengono effettuati solo accertamenti diagnostici o terapie fisiche che, | NaN | NaN | NaN | NaN |
+| per la loro natura, possono essere effettuati anche in ambulatorio; | NaN | NaN | NaN | NaN |
+| r) | NaN | le cure, gli accertamenti clinico-strumentali e le visite specialistiche correlate alla condizione di sieropositività | NaN | NaN |
+| GENERASalute RSM | NaN | NaN | Edizione 05.2022 | Condizioni di assicurazione |
+
+## Sheet11
+| H.I.V. o A.I.D.S. | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 |
+| --- | --- | --- | --- |
+| Dove vale la copertura? | NaN | NaN | NaN |
+| Art. 14 Validità territoriale | NaN | NaN | NaN |
+| L’assicurazione vale in tutto il mondo. | NaN | NaN | NaN |
+| Che obblighi ho? | NaN | NaN | NaN |
+| Art. 15 Oneri | NaN | NaN | NaN |
+| Le imposte e gli altri oneri stabiliti per legge, presenti e futuri, relativi al Premio, agli accessori, all’assicurazione ed agli | NaN | NaN | NaN |
+| atti da essa dipendenti sono a carico dei singoli Assicurati, anche se il pagamento è stato anticipato da Generali Italia. | NaN | NaN | NaN |
+| Art. 16 Dichiarazioni relative alle circostanze del rischio e forma delle comunicazioni | NaN | NaN | NaN |
+| Generali Italia presta il suo consenso all’assicurazione e determina il Premio unicamente in base alle dichiarazioni rese | NaN | NaN | NaN |
+| dal Contraente e/o dall’Assicurato sui dati e le circostanze oggetto di domanda da parte di Generali Italia e risultanti | NaN | NaN | NaN |
+| dai documenti contrattuali. | NaN | NaN | NaN |
+| Le inesattezze e le reticenze dell’Assicurato, relative alle circostanze che influiscono sulla valutazione del rischio, | NaN | NaN | NaN |
+| possono comportare la perdita totale o parziale dell’indennizzo, nonché la stessa cessazione dell’assicurazione, ai sensi | NaN | NaN | NaN |
+| degli artt. 1892, 1893 e 1894 del Codice Civile. In tale caso, spetta a Generali Italia, oltre alle rate di Premio scadute e | NaN | NaN | NaN |
+| rimaste insoddisfatte, il Premio complessivo relativo all’annualità di assicurazione in corso al momento in cui si è | NaN | NaN | NaN |
+| verificata la circostanza che ha provocato la risoluzione. | NaN | NaN | NaN |
+| Tutte le comunicazioni dell’Assicurato nel corso del contratto devono essere fatte con lettera raccomandata. | NaN | NaN | NaN |
+| Art. 17 Obblighi | NaN | NaN | NaN |
+| Se gli assicurati sostengono in tutto o in parte l’onere economico connesso al pagamento dei premi o sono, direttamente | NaN | NaN | NaN |
+| o tramite i loro aventi causa, portatori di un interesse alla prestazione: | NaN | NaN | NaN |
+| - | le Condizioni di Assicurazione saranno rese disponibili ai singoli Assicurati prima dell’adesione alla copertura | NaN | NaN |
+| NaN | assicurativa, tramite una specifica sezione del portale a loro dedicato; | NaN | NaN |
+| - | NaN | NaN | NaN |
+| NaN | gli assicurati hanno la possibilità, collegandosi al sito internet di Generali Italia, entrando nell’Area Clienti e se- | NaN | NaN |
+| NaN | guendo le istruzioni per registrarsi, di accedere alle informazioni sulle posizioni assicurative sottoscritte. | NaN | NaN |
+| I singoli Assicurati si impegnano a fornire a Generali Italia tutti i documenti necessari al momento dell’entrata in copertura. | NaN | NaN | NaN |
+| Generali Italia ha il diritto di effettuare in qualsiasi momento verifiche e controlli per i quali l’ Assicurato è tenuto a fornire | NaN | NaN | NaN |
+| i chiarimenti e le documentazioni necessarie. | NaN | NaN | NaN |
+| Art. 18 Riservatezza dei dati personali | NaN | NaN | NaN |
+| L ’Informativa Contrattuale sarà resa disponibili ai singoli Assicurati, prima dell’adesione alla copertura assicurativa, | NaN | NaN | NaN |
+| tra- mite una specifica sezione del portale a loro dedicato, ai sensi degli articoli 13 e 14 del Regolamento UE n. 679/2016 | NaN | NaN | NaN |
+| del 27 aprile 2016, allegata a queste Condizioni di Assicurazione (GIPRY) ed a restituire a Generali Italia il consenso | NaN | NaN | NaN |
+| dell’As- sicurato. | NaN | NaN | NaN |
+| Quando e come devo pagare? | NaN | NaN | NaN |
+| Art. 19 Regolazione del Premio | NaN | NaN | NaN |
+| Il contratto prevede, per ciascun anno o frazione d’anno di durata, il pagamento del premio: | NaN | NaN | NaN |
+| 100% per gli inserimenti in garanzia nel I trimestre; | NaN | NaN | NaN |
+| 80% per gli inserimenti in garanzia nel II trimestre; | NaN | NaN | NaN |
+| 60% per gli inserimenti in garanzia nel III trimestre; | NaN | NaN | NaN |
+| 40% per gli inserimenti in garanzia nel IV trimestre. | NaN | NaN | NaN |
+| Art. 20 Pagamento del Premio | NaN | NaN | NaN |
+| ll premio annuo, comprensivo di imposte, per ogni Assicurato è stabilito nella misura € 1.100,00. | NaN | NaN | NaN |
+| GENERASalute RSM | NaN | Edizione 05.2022 | Condizioni di assicurazione |
+
+## Sheet12
+| I Premi devono essere pagati all’Agenzia di riferimento oppure a Generali Italia. | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | Unnamed: 8 | Unnamed: 9 | Unnamed: 10 | Unnamed: 11 | Unnamed: 12 | Unnamed: 13 | Unnamed: 14 | Unnamed: 15 | Unnamed: 16 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Salvo quanto sotto disciplinato il Premio si intende pagato con la consegna della somma corrispondente al Premio | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| stesso. | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Il Premio, anche se frazionato in più rate, è dovuto per l’intero periodo assicurativo annuo. | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Nei limiti previsti dalle norme vigenti, il Premio può essere pagato con le seguenti modalità: | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| • | con | NaN | bonifico | bancario | su | conto | corrente | intestato | a | Generali | Italia | o | su | conto | corrente | dedicato |
+| dell’intermediario, in tale qualità. In questo caso la data di versamento del Premio coincide con la data di | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| effettivo accredito sul conto corrente intestato a Generali Italia o sul conto corrente dell’intermediario, in tale | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| qualità. | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Quando comincia la copertura e quando finisce? Art. 21 Entrata in vigore dell’assicurazione | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| La copertura per gli aventi diritto, iscritti nella prima finestra temporale, avrà effetto retroattivo dalle ore 24 del 31.12.2022. | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Per i pensionandi che aderiranno in corso d’anno la copertura decorrerà dal 1° giorno del trimestre di adesione. | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Come posso disdire la polizza? | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Art. 22 Proroga dell’assicurazione | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Il contratto - sempre se stipulato per almeno un anno - è prorogato per una ulteriore annualità e così successivamente. | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| L’eventuale disdetta va esercitata dal Contraente o da Generali Italia almeno 30 giorni prima della scadenza, con comu- | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| nicazione per iscritto mediante: | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| - | NaN | posta elettronica certificata (PEC); | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| - | NaN | lettera raccomandata. | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| COSA FARE IN CASO DI SINISTRO | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Art. 23 Reti convenzionate | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Rete delle “Strutture Convenzionate” | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Generali Italia ha studiato e realizzato un servizio di accesso ad una rete di centri clinici e Studi Odontoiatrici conven- | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| zionati ai quali gli assicurati possono rivolgersi, attraverso l’attivazione della Centrale Operativa, per le prestazioni | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| pre- viste dal contratto con costi sostenuti direttamente da Generali Italia, ad eccezione delle franchigie o scoperti di | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| polizza e delle spese non previste dalla polizza stessa. | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Le modalità operative del servizio sono disciplinate dalla guida al servizio che forma parte integrante del presente | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| contratto (Allegato 1). | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| ATTENZIONE: l’Assicurato deve attivare la Centrale Operativa in caso di intervento chirurgico da effettuare in strut- | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| tura sanitaria privata per verificare l’appartenenza o meno di questa alla rete convenzionata con Generali Italia ed avere | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| l’autorizzazione ad effettuare la prestazione. | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Art. 24 Obblighi dell’Assicurato in caso di sinistro (richiesta di rimborso) | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| In caso di sinistro l’Assicurato o i suoi aventi diritto devono ottemperare ai seguenti obblighi: | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| - | presentare, non appena ne abbiano avuto la possibilità, la denuncia del sinistro (richiesta di rimborso) corredata | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| NaN | dalla necessaria documentazione medica con la prescrizione riportante il quesito diagnostico; | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| - | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| NaN | allegare la copia della cartella clinica completa per le prestazioni connesse ai ricoveri; | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| - | acconsentire alla visita dei medici inviati da Generali Italia ed a qualsiasi indagine che questa ritenga necessaria, | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| NaN | a tal fine sciogliendo dal segreto professionale i medici curanti; | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| - | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| NaN | fornire tutta la documentazione (medica e non) che Generali Italia riterrà opportuno acquisire ai fini di una corretta | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| NaN | e completa istruttoria del sinistro. | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| L’inadempimento ai suddetti obblighi comporta la perdita totale o parziale dell’indennizzo ai sensi dell’art. 1915 del | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Codice Civile. | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Art. 25 Criteri di liquidazione | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Generali Italia effettua il rimborso delle spese a cura ultimata e direttamente all’Assicurato, previa presentazione delle | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| fotocopie delle relative notule, distinte, fatture e ricevute debitamente quietanzate. | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| Per le spese sostenute all’estero i rimborsi vengono eseguiti in Italia, nella valuta avente corso legale in Italia, al cambio | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| medio della settimana in cui la spesa è stata sostenuta dall’Assicurato, ricavato dalle quotazioni ufficiali. | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN | NaN |
+| GENERASalute RSM | NaN | NaN | NaN | NaN | NaN | Edizione 05.2022 | NaN | NaN | NaN | NaN | NaN | Condizioni di assicurazione | NaN | NaN | NaN | NaN |
+
+## Sheet13
+| Per la corresponsione delle indennità per i giorni di ricovero, Generali Italia effettua il pagamento all’Assicurato, previa | Unnamed: 1 | Unnamed: 2 |
+| --- | --- | --- |
+| presentazione dei documenti giustificativi (cartella clinica completa e documentazione medica) attestanti durata e | NaN | NaN |
+| ragioni del ricovero. | NaN | NaN |
+| La richiesta di rimborso può essere inviata con una raccomandata A.R. contenente l’apposito modulo sottoscritto, | NaN | NaN |
+| in cui è indicato l’indirizzo, e la documentazione inerente il sinistro, oppure tramite internet. Per accedere al servizio | NaN | NaN |
+| web (tramite pc, smartphone o tablet) occorre collegarsi al sito di Generali Italia http://www.generali.it/ e cliccare sulla | NaN | NaN |
+| voce “Area Clienti”. | NaN | NaN |
+| In alternativa è possibile utilizzare il link diretto all’applicativo https://areaclienti.spesemediche.generali.it/. | NaN | NaN |
+| Art. 26 Controversie | NaN | NaN |
+| In caso di controversie di natura medica sull’indennizzabilità del sinistro, le Parti possono conferire per iscritto mandato | NaN | NaN |
+| di decidere, a norma e nei limiti delle condizioni contrattuali, ad un collegio arbitrale di tre medici, nominati uno per parte | NaN | NaN |
+| ed il terzo di comune accordo od in caso contrario dal Presidente del Consiglio dell’Ordine dei Medici avente sede nel | NaN | NaN |
+| luogo dove deve riunirsi il Collegio. | NaN | NaN |
+| Il Collegio medico arbitrale risiede nel Comune, sede di Istituto di Medicina Legale, più vicino al luogo di residenza dell’As- | NaN | NaN |
+| sicurato. Ciascuna delle Parti sostiene le proprie spese e remunera il medico da essa designato, contribuendo per metà | NaN | NaN |
+| delle spese e competenze per il terzo medico. | NaN | NaN |
+| Le decisioni del Collegio medico arbitrale sono prese a maggioranza dei voti, con dispensa da ogni formalità di legge | NaN | NaN |
+| e sono vincolanti tra le Parti, le quali rinunciano fin d’ora a qualsiasi impugnativa salvo i casi di violenza, dolo, errore o | NaN | NaN |
+| violazione di patti contrattuali. | NaN | NaN |
+| I risultati delle operazioni arbitrali devono essere raccolti in apposito verbale, da redigersi in doppio esemplare, uno per | NaN | NaN |
+| ognuna delle Parti. Le decisioni del Collegio medico arbitrale sono vincolanti per le Parti anche se uno dei medici si | NaN | NaN |
+| rifiuti di firmare il relativo verbale; tale rifiuto deve essere attestato dagli arbitri nel verbale definitivo. | NaN | NaN |
+| Art. 27 Rimborso da Enti | NaN | NaN |
+| Se l’Assicurato ha ricevuto o deve ricevere un rimborso da altro ente assistenziale o da altra assicurazione per una | NaN | NaN |
+| medesima prestazione presente in questo contratto, deve fornire a Generali Italia evidenza degli importi ricevuti o che | NaN | NaN |
+| gli verranno riconosciuti. Generali Italia effettua il pagamento della prestazione richiesta in base a quanto previsto dal | NaN | NaN |
+| con- tratto sulle spese effettivamente sostenute dall’Assicurato e comunque fino ad un importo che sommato a quanto | NaN | NaN |
+| già indennizzato da altro ente o assicuratore non ecceda il costo sostenuto per quella prestazione. | NaN | NaN |
+| Art. 28 Determinazione dell’annualità assicurativa di competenza | NaN | NaN |
+| L’individuazione dell’annualità assicurativa di competenza di un sinistro avviene con il seguente criterio: | NaN | NaN |
+| a) In caso di ricovero, Day hospital, intervento ambulatoriale e di corresponsione dell’indennità sostitutiva di cui | NaN | NaN |
+| agli artt. 4.1, 4.2,4.3, 4.4 e 4.5 delle Condizioni di Assicurazione, la data del sinistro coincide con quella | NaN | NaN |
+| dell’entrata dell’Assicurato nella struttura ospedaliera. A questa data si fa riferimento per tutte le garanzie | NaN | NaN |
+| collegate al ricovero; | NaN | NaN |
+| b) per le garanzie di cui agli articoli dal 5 al 9 delle Condizioni di Assicurazione la data del sinistro corrisponde alla | NaN | NaN |
+| data della documentazione di spesa o di autorizzazione ad effettuare la prestazione. | NaN | NaN |
+| Art. 29 Lingua in cui è redatto il contratto | NaN | NaN |
+| Il contratto, ogni documento ad esso allegato e le comunicazioni in corso di contratto sono redatti in lingua italiana. | NaN | NaN |
+| GENERASalute RSM | Edizione 05.2022 | Condizioni di assicurazione |
+
+## Sheet14
+| SOMMARIO | Unnamed: 1 | Unnamed: 2 |
+| --- | --- | --- |
+| Art. 1 Definizioni | NaN | NaN |
+| Art. 2 Assicurati | NaN | NaN |
+| Art. 3 Rischi assicurati | NaN | NaN |
+| Art. 4 Rimborso spese ospedaliere e chirurgiche | NaN | NaN |
+| Art. 4.1 Intervento chirurgico effettuato in regime di ricovero in istituto di cura, Day Hospital o in ambulatorio | NaN | NaN |
+| Art. 4.2 Ricovero in istituto di cura od in regime di Day Hospital, o prestazioni in regime ambulatoriale che non | NaN | NaN |
+| comporti intervento chirurgico: | NaN | NaN |
+| Art. 4.3 Precisazioni relative agli scoperti e franchigie per le spese di ricovero | NaN | NaN |
+| Art. 4.4 Spese pre/post ricovero | NaN | NaN |
+| Art. 4.5 Indennità sostitutiva | NaN | NaN |
+| Art. 4.6 Anticipo | NaN | NaN |
+| Art. 5 Cure oncologiche | NaN | NaN |
+| Art. 6 Prestazioni diagnostiche ad alta specializzazione | NaN | NaN |
+| Art. 7 Trattamenti fisioterapici | NaN | NaN |
+| Art. 8 Cure dentarie | NaN | NaN |
+| Art. 9 Interventi Chirurgici Odontoiatrici Extraricovero | NaN | NaN |
+| Art. 10 TABELLA FRANCHIGIE, SCOPERTI, MASSIMALI E LIMITI DI INDENNIZZO | NaN | NaN |
+| Art. 11 Persone non assicurabili | NaN | NaN |
+| Art. 12 Permanenza in assicurazione – Limiti di età | NaN | NaN |
+| Art. 13 Esclusioni | NaN | NaN |
+| Art. 14 Validità territoriale | NaN | NaN |
+| Art. 15 Oneri | NaN | NaN |
+| Art. 16 Dichiarazioni relative alle circostanze del rischio e forma delle comunicazioni | NaN | NaN |
+| Art. 17 Obblighi del Contraente | NaN | NaN |
+| Art. 18 Riservatezza dei dati personali | NaN | NaN |
+| Art. 19 Regolazione del Premio | NaN | NaN |
+| Art. 20 Pagamento del Premio | NaN | NaN |
+| Art. 21 Entrata in vigore dell’assicurazione | NaN | NaN |
+| Art. 22 Proroga dell’assicurazione | NaN | NaN |
+| Art. 23 Reti convenzionate | NaN | NaN |
+| Art. 24 Obblighi dell’Assicurato in caso di sinistro (richiesta di rimborso) | NaN | NaN |
+| Art. 25 Criteri di liquidazione | NaN | NaN |
+| Art. 26 Controversie | NaN | NaN |
+| Art. 27 Rimborso da Enti | NaN | NaN |
+| Art. 28 Determinazione dell’annualità assicurativa di competenza | NaN | NaN |
+| Art. 29 Lingua in cui è redatto il contratto | NaN | NaN |
+| GENERASalute RSM | Edizione 05.2022 | Condizioni di assicurazione |
+
+## Sheet15
+| ALLEGATO 1 ALLE CONDIZIONI DI ASSICURAZIONE | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 |
+| --- | --- | --- | --- | --- |
+| Il | servizio | di | pagamento | diretto |
+| Attivazione della Centrale Operativa | NaN | NaN | NaN | NaN |
+| L’Assicurato ha la possibilità di utilizzare le strutture della rete convenzionata attivando la Centrale Operativa con uno dei | NaN | NaN | NaN | NaN |
+| seguenti canali a sua scelta: | NaN | NaN | NaN | NaN |
+| · Telefonico: chiamate dall’Italia o dall’estero al +39.05579560309, dal lunedì al venerdì, dalle 9:00 alle 17:30 | NaN | NaN | NaN | NaN |
+| · | Tramite portale Web raggiungibile all’indirizzo https://secure.firenzerifredi.it/ | NaN | NaN | NaN |
+| L’autorizzazione da parte della Centrale Operativa ad effettuare la prestazione in rete comporta il servizio di pagamento diretto | NaN | NaN | NaN | NaN |
+| da parte della Compagnia alla struttura sanitaria che ha erogato la prestazione. | NaN | NaN | NaN | NaN |
+| La Rete delle “Strutture Convenzionate” con Generali Welion | NaN | NaN | NaN | NaN |
+| Per “Rete” si intende l’insieme delle strutture sanitarie (Ospedali, Case di Cura, Studi Odontoiatrici e Centri Diagnostici) e | NaN | NaN | NaN | NaN |
+| dei professionisti convenzionati con Generali Italia, alle quali l'Assicurato potrà essere indirizzato dalla Centrale Operativa | NaN | NaN | NaN | NaN |
+| per usufruire delle prestazioni sanitarie garantite in polizza. | NaN | NaN | NaN | NaN |
+| L'elenco delle strutture sanitarie convenzionate è disponibile nel sito di Generali Italia www.generali.it alla voce “Strutture | NaN | NaN | NaN | NaN |
+| Convenzionate” ed è periodicamente aggiornato. La Rete, infatti, è suscettibile di modifiche anche in corso dell’annualità | NaN | NaN | NaN | NaN |
+| assicurativa. L’ufficio Convenzioni provvede all’aggiornamento costante della propria Banca Dati, potendo fornire all'Assi- | NaN | NaN | NaN | NaN |
+| curato un’informazione sempre aggiornata tramite la Centrale Operativa. | NaN | NaN | NaN | NaN |
+| ACCESSO AI SERVIZI OSPEDALIERI (ricoveri, day hospital, interventi chirurgici ambulatoriali) | NaN | NaN | NaN | NaN |
+| L'Assicurato, qualora necessiti di effettuare una prestazione sanitaria presso una struttura convenzionata deve contattare | NaN | NaN | NaN | NaN |
+| la Centrale Operativa, almeno 5 giorni feriali prima della data della prestazione, al fine di verificare la convenzione della | NaN | NaN | NaN | NaN |
+| struttura prescelta e dell’equipe medica e di valutare la congruità assicurativa della prestazione. | NaN | NaN | NaN | NaN |
+| La Centrale Operativa è raggiungibile dal lunedì al venerdì dalle 9 alle 18, al numero sopra indicato. | NaN | NaN | NaN | NaN |
+| In caso di ricoveri urgenti in orario diverso da quello indicato, si richiede all’Assicurato di contattare la Centrale Operativa il | NaN | NaN | NaN | NaN |
+| primo giorno feriale disponibile. | NaN | NaN | NaN | NaN |
+| Al fine di garantire la copertura diretta delle spese ed espletare le relative pratiche in favore dell'Assicurato è | NaN | NaN | NaN | NaN |
+| necessario comunicare: | NaN | NaN | NaN | NaN |
+|  nome e cognome della persona che effettua la prestazione | NaN | NaN | NaN | NaN |
+|  | contraente della polizza | NaN | NaN | NaN |
+|  | recapito telefonico mobile - per l’invio di SMS di conferma - della persona che effettua la prestazione | NaN | NaN | NaN |
+|  | struttura sanitaria presso cui sarà effettuata la prestazione | NaN | NaN | NaN |
+|  | data della prestazione | NaN | NaN | NaN |
+|  | nominativo equipe medica | NaN | NaN | NaN |
+| E’ necessario che l’Assicurato trasmetta via mail all’indirizzo ricoveri.it@generali.com o alleghi alla richiesta se fatta tramite | NaN | NaN | NaN | NaN |
+| il canale on line la prescrizione medica con i seguenti elementi (Nel Caso di prestazione odontoiatrica tale dato non è | NaN | NaN | NaN | NaN |
+| necessario): | NaN | NaN | NaN | NaN |
+|  | indicazione della prestazione da effettuare | NaN | NaN | NaN |
+|  | diagnosi | NaN | NaN | NaN |
+|  | anamnesi prossima e remota | NaN | NaN | NaN |
+|  | referti esami strumentali | NaN | NaN | NaN |
+| La preventiva richiesta dell’Assicurato, l’invio della documentazione sopra indicata e la successiva conferma da parte della | NaN | NaN | NaN | NaN |
+| Centrale Operativa sono condizioni indispensabili per l’operatività del pagamento diretto. | NaN | NaN | NaN | NaN |
+| All’atto del ricevimento della certificazione medica, la Centrale Operativa, valutata la congruità medico-assicurativa della | NaN | NaN | NaN | NaN |
+| prestazione, entro le 72 ore successive autorizza la struttura convenzionata ad effettuare la prestazione ed avvisa l’As- | NaN | NaN | NaN | NaN |
+| sicurato del buon esito della pratica. | NaN | NaN | NaN | NaN |
+| All'atto della prestazione presso una struttura convenzionata, l'Assicurato dovrà sottoscrivere l'apposita "lettera d'impegno", | NaN | NaN | NaN | NaN |
+| documento che ribadisce gli obblighi reciproci tra struttura convenzionata e Assicurato, integrata con gli adempimenti rela- | NaN | NaN | NaN | NaN |
+| tivi a quanto previsto dal Regolamento UE 2016/679 e normativa vigente sulla tutela dei dati personali. | NaN | NaN | NaN | NaN |
+| La struttura sanitaria convenzionata trasmetterà a Generali Italia direttamente gli originali delle fatture e copia dei referti | NaN | NaN | NaN | NaN |
+| per il pagamento delle prestazioni nel rispetto delle convenzioni in essere con le strutture sanitarie. | NaN | NaN | NaN | NaN |
+| Premesso che il pagamento diretto è una modalità prevista dalla polizza, l’eventuale non autorizzazione della prestazione | NaN | NaN | NaN | NaN |
+| da parte della Centrale Operativa non pregiudica l’indennizzabilità del sinistro da parte di Generali Italia con modalità rim- | NaN | NaN | NaN | NaN |
+| borsuale. | NaN | NaN | NaN | NaN |
+| Si ribadisce che l'Assicurato avrà diritto al pagamento diretto delle spese fatturate dai professionisti e dalle strutture co n- | NaN | NaN | NaN | NaN |
+| venzionate solo limitatamente a quanto autorizzato dalla Centrale Operativa. | NaN | NaN | NaN | NaN |
+| Pagamento diretto delle spese garantite dalla polizza in caso di prestazioni sanitarie presso la Rete | NaN | NaN | NaN | NaN |
+| Qualora la Centrale Operativa abbia autorizzato il pagamento diretto, a ricovero avvenuto o a prestazione sanitaria erogata, | NaN | NaN | NaN | NaN |
+| Generali Italia pagherà direttamente le spese dovute per le prestazioni mediche ed ospedaliere purché indennizzabili a | NaN | NaN | NaN | NaN |
+| termini di polizza, ferma l'applicazione dell’eventuale franchigia che dovrà essere versata dall'Assicurato alla struttura sa- | NaN | NaN | NaN | NaN |
+| nitaria al momento della dimissione. | NaN | NaN | NaN | NaN |
+| L'Assicurato dovrà provvedere al pagamento delle spese o delle eccedenze di spesa a proprio carico per prestazioni non | NaN | NaN | NaN | NaN |
+| indennizzabili a termini di polizza. | NaN | NaN | NaN | NaN |
+| GENERASalute RSM Edizione 05.2022 Condizioni di assicurazione | NaN | NaN | NaN | NaN |
+
+## Sheet16
+| ACCESSO AI SERVIZI EXTRAOSPEDALIERI (accertamenti diagnostici/ visite specialistiche/ prestazioni odontoia- | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 |
+| --- | --- | --- | --- |
+| triche/ trattamenti fisioterapici e riabilitativi, se operante la relativa garanzia ed attivato il servizio di pagamento | NaN | NaN | NaN |
+| diretto) | NaN | NaN | NaN |
+| Qualora l'Assicurato necessiti di effettuare una prestazione extraospedaliera presso una struttura sanitaria convenzio- | NaN | NaN | NaN |
+| nata, è necessario attivare la Centrale Operativa almeno 3 giorni feriali prima della data della prestazione al fine di verificare | NaN | NaN | NaN |
+| la convenzione della struttura prescelta e del medico in caso di visite specialistiche. | NaN | NaN | NaN |
+| Al fine di garantire la copertura diretta delle spese ed espletare le relative pratiche in favore dell'Assicurato è | NaN | NaN | NaN |
+| necessario comunicare: | NaN | NaN | NaN |
+|  nome e cognome della persona che deve effettuare la prestazione | NaN | NaN | NaN |
+|  | contraente di polizza | NaN | NaN |
+|  | recapito telefonico mobile - per l’invio di SMS di conferma - della persona che effettua la prestazione | NaN | NaN |
+|  | struttura sanitaria presso la quale verrà effettuata la prestazione | NaN | NaN |
+|  | data della prestazione | NaN | NaN |
+|  | certificato medico che indichi la richiesta della prestazione con diagnosi o presunta diagnosi. Nel Caso di pre- | NaN | NaN |
+| NaN | stazione odontoiatrica tale dato non è necessario. | NaN | NaN |
+|  | NaN | NaN | NaN |
+| NaN | nominativo medico specialista (in caso di visita). Nel Caso di prestazione odontoiatrica tale dato non è necessario. | NaN | NaN |
+| Alla positiva verifica della convenzione, della struttura sanitaria e - in caso di visita specialistica - del medico specialista, la | NaN | NaN | NaN |
+| Centrale Operativa, valutata la congruità medico-assicurativa della prestazione, autorizza entro le 72 ore successive la | NaN | NaN | NaN |
+| struttura convenzionata (ad effettuare la prestazione nel rispetto delle Condizioni di Assicurazione (con evidenza di even- | NaN | NaN | NaN |
+| tuali spese non previste dalla copertura). | NaN | NaN | NaN |
+| Nel caso in cui l’autorizzazione dovesse essere negata, la Centrale Operativa avviserà sia la struttura sanitaria sia l’Assi- | NaN | NaN | NaN |
+| curato. | NaN | NaN | NaN |
+| L’Assicurato al momento dell’accettazione presso gli ambulatori dovrà sottoscrivere la “lettera d’impegno” (documento che | NaN | NaN | NaN |
+| riporta gli obblighi reciproci tra Assicurato e struttura sanitaria convenzionata) in relazione alla prestazione e con riferimento | NaN | NaN | NaN |
+| alle Condizioni di Assicurazione, e consegnare la prescrizione comunicata telefonicamente alla Centrale Operativa. | NaN | NaN | NaN |
+| La struttura sanitaria convenzionata trasmetterà a Generali Italia una copia delle fatture e la richiesta medica della presta- | NaN | NaN | NaN |
+| zione per il pagamento delle stesse nel rispetto delle convenzioni in essere con le strutture sanitarie. | NaN | NaN | NaN |
+| Si precisa che per le fatture delle prestazioni odontoiatriche devono essere riportati i dettagli delle singole prestazioni effet- | NaN | NaN | NaN |
+| tuate. | NaN | NaN | NaN |
+| Premesso che il pagamento diretto è una modalità prevista dalla polizza, l’eventuale non autorizzazione della prestazione | NaN | NaN | NaN |
+| da parte della Centrale Operativa non pregiudica l’indennizzabilità del sinistro da parte di Generali Italia con modalità rim- | NaN | NaN | NaN |
+| borsuale. | NaN | NaN | NaN |
+| Prestazioni pre e post ricovero | NaN | NaN | NaN |
+| Relativamente alle prestazioni pre-ricovero, l’Assicurato può chiedere l’attivazione dell’Assistenza diretta solo nel caso in | NaN | NaN | NaN |
+| cui il ricovero risulti autorizzato dalla Centrale Operativa; relativamente alle prestazioni post-ricovero, l’Assicurato può chie- | NaN | NaN | NaN |
+| dere l’attivazione dell’Assistenza diretta con l’invio della lettera di dimissione. | NaN | NaN | NaN |
+| NOTA | NaN | NaN | NaN |
+| Qualora l’Assicurato non attivi la Centrale Operativa ma utilizzi, comunque, un centro clinico o studio odontoiatrico conven- | NaN | NaN | NaN |
+| zionato con pagamento a proprio carico avrà diritto all’applicazione delle tariffe di convenzione facendosi riconoscere quale | NaN | NaN | NaN |
+| assicurato di Generali Italia. La spesa sostenuta potrà essere oggetto di richiesta di rimborso se rientrante nel piano sani- | NaN | NaN | NaN |
+| tario sottoscritto con applicazione delle franchigie previste per le prestazioni “fuori rete” | NaN | NaN | NaN |
+| GENERASalute RSM | NaN | Edizione 05.2022 | Condizioni di assicurazione |
+
+## Sheet17
+| GENERASalute RSM | Edizione 05.2022 | Condizioni di assicurazione |
+| --- | --- | --- |

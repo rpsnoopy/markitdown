@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<document> 
+  <header> 
+    <title>XML Test Document</title> 
+    <author>Test Suite</author> 
+    <date>2024-01-01</date> 
+  </header> 
+  <content> 
+    <section id="1"> 
+      <title>Introduction</title> 
+      <text>This is a test XML document for MarkItDown processing.</text> 
+    </section> 
+    <section id="2"> 
+      <title>Features</title> 
+      <items> 
+        <item>XML parsing</item> 
+        <item>Content extraction</item> 
+      </items> 
+    </section> 
+  </content> 
+</document> 

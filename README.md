@@ -1,11 +1,11 @@
-# MarkItDown Standalone Distribution
+# MarkItDown Enhanced
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PyInstaller](https://img.shields.io/badge/PyInstaller-6.0+-blue.svg)](https://pyinstaller.org/)
 [![Windows](https://img.shields.io/badge/Platform-Windows-blue.svg)](https://www.microsoft.com/windows)
 [![Python](https://img.shields.io/badge/Python-3.10+-green.svg)](https://python.org)
 
-> **This is an enhanced distribution of the original MarkItDown project that creates standalone executables with complete file format support.**
+> **Enhanced version of Microsoft's MarkItDown with structured JSON output, image extraction, and standalone executable support.**
 
 ## 🎯 Overview
 

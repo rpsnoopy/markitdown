@@ -1,0 +1,7 @@
+UTF-8 Text Document
+==================
+This document contains special characters:
+• Bullet points
+★ Unicode symbols
+© Copyright symbols
+Émile Français avec accents

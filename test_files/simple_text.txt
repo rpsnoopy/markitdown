@@ -1,0 +1,6 @@
+This is a simple text document. 
+It contains multiple lines of content. 
+Perfect for testing basic text extraction. 
+ 
+Second paragraph with more content. 
+End of document. 

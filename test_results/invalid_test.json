@@ -1,0 +1,15 @@
+PyInstaller\loader\pyimod02_importers.py:450: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+{
+  "status": "error",
+  "exit_code": 1,
+  "pages_processed": 0,
+  "text_extracted": false,
+  "images_count": 0,
+  "ocr_performed": false,
+  "heuristic_applied": false,
+  "output_files": {},
+  "processing_time": 0.0,
+  "errors": [
+    "File not found: nonexistent.pdf"
+  ]
+}

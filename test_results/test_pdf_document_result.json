@@ -1,0 +1,36 @@
+PyInstaller\loader\pyimod02_importers.py:450: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+pydub\utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+Using PyMuPDF to extract from test_files\test_pdf_document.pdf
+  Saved page 1: test_files\test_pdf_document\page_images\temp\page_001.png
+  Saved page 2: test_files\test_pdf_document\page_images\temp\page_002.png
+  Saved page 3: test_files\test_pdf_document\page_images\temp\page_003.png
+  Saved page 4: test_files\test_pdf_document\page_images\temp\page_004.png
+  Saved page 5: test_files\test_pdf_document\page_images\temp\page_005.png
+  Saved page 6: test_files\test_pdf_document\page_images\temp\page_006.png
+  Saved page 7: test_files\test_pdf_document\page_images\temp\page_007.png
+  Saved page 8: test_files\test_pdf_document\page_images\temp\page_008.png
+  Saved page 9: test_files\test_pdf_document\page_images\temp\page_009.png
+  Saved page 10: test_files\test_pdf_document\page_images\temp\page_010.png
+  Saved page 11: test_files\test_pdf_document\page_images\temp\page_011.png
+  Saved page 12: test_files\test_pdf_document\page_images\temp\page_012.png
+  Saved page 13: test_files\test_pdf_document\page_images\temp\page_013.png
+  Saved page 14: test_files\test_pdf_document\page_images\temp\page_014.png
+  Saved page 15: test_files\test_pdf_document\page_images\temp\page_015.png
+  Saved page 16: test_files\test_pdf_document\page_images\temp\page_016.png
+  Saved page 17: test_files\test_pdf_document\page_images\temp\page_017.png
+{
+  "status": "success",
+  "exit_code": 12,
+  "pages_processed": 17,
+  "text_extracted": true,
+  "images_count": 17,
+  "ocr_performed": false,
+  "heuristic_applied": true,
+  "output_files": {
+    "processed": "test_files\\test_pdf_document\\test_pdf_document.txt",
+    "images_analysis": "test_files\\test_pdf_document\\test_pdf_document_images_analysis.txt",
+    "page_images_folder": "test_files\\test_pdf_document\\page_images\\"
+  },
+  "processing_time": 10.02,
+  "errors": []
+}

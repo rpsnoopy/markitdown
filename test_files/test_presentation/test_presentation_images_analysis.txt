@@ -1,0 +1,27 @@
+Image Analysis Report for test_presentation.pptx
+==================================================
+
+Total images extracted: 17
+Source file: test_files\test_presentation.pptx
+Processing date: 2025-05-30 18:19:46
+
+Extracted image files:
+   1. test_presentation_page_1.png (32,093 bytes)
+   2. test_presentation_page_2.png (21,836 bytes)
+   3. test_presentation_page_3.png (89,113 bytes)
+   4. test_presentation_page_4.png (62,451 bytes)
+   5. test_presentation_page_5.png (110,990 bytes)
+   6. test_presentation_page_6.png (94,286 bytes)
+   7. test_presentation_page_7.png (75,313 bytes)
+   8. test_presentation_page_8.png (63,822 bytes)
+   9. test_presentation_page_9.png (139,237 bytes)
+  10. test_presentation_page_10.png (60,457 bytes)
+  11. test_presentation_page_11.png (88,792 bytes)
+  12. test_presentation_page_12.png (87,164 bytes)
+  13. test_presentation_page_13.png (53,839 bytes)
+  14. test_presentation_page_14.png (27,774 bytes)
+  15. test_presentation_page_15.png (62,005 bytes)
+  16. test_presentation_page_16.png (46,146 bytes)
+  17. test_presentation_page_17.png (16,965 bytes)
+
+All images saved to: test_files\test_presentation\page_images

@@ -1,0 +1,30 @@
+Image Analysis Report for test_word_document.docx
+==================================================
+
+Total images extracted: 20
+Source file: test_files\test_word_document.docx
+Processing date: 2025-05-30 18:19:22
+
+Extracted image files:
+   1. test_word_document_page_1.png (52,114 bytes)
+   2. test_word_document_page_2.png (85,060 bytes)
+   3. test_word_document_page_3.png (72,002 bytes)
+   4. test_word_document_page_4.png (87,994 bytes)
+   5. test_word_document_page_5.png (82,573 bytes)
+   6. test_word_document_page_6.png (83,921 bytes)
+   7. test_word_document_page_7.png (83,689 bytes)
+   8. test_word_document_page_8.png (80,353 bytes)
+   9. test_word_document_page_9.png (71,945 bytes)
+  10. test_word_document_page_10.png (51,447 bytes)
+  11. test_word_document_page_11.png (93,226 bytes)
+  12. test_word_document_page_12.png (86,209 bytes)
+  13. test_word_document_page_13.png (81,779 bytes)
+  14. test_word_document_page_14.png (90,802 bytes)
+  15. test_word_document_page_15.png (84,328 bytes)
+  16. test_word_document_page_16.png (65,788 bytes)
+  17. test_word_document_page_17.png (89,912 bytes)
+  18. test_word_document_page_18.png (58,868 bytes)
+  19. test_word_document_page_19.png (74,951 bytes)
+  20. test_word_document_page_20.png (75,169 bytes)
+
+All images saved to: test_files\test_word_document\page_images

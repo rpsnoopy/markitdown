@@ -1,0 +1,36 @@
+PyInstaller\loader\pyimod02_importers.py:450: UserWarning: pkg_resources is deprecated as an API. See https://setuptools.pypa.io/en/latest/pkg_resources.html. The pkg_resources package is slated for removal as early as 2025-11-30. Refrain from using this package or pin to Setuptools<81.
+pydub\utils.py:170: RuntimeWarning: Couldn't find ffmpeg or avconv - defaulting to ffmpeg, but may not work
+Extracting slides from test_files\test_presentation.pptx
+  Saved slide 1: test_files\test_presentation\page_images\temp\slide_001.png
+  Saved slide 2: test_files\test_presentation\page_images\temp\slide_002.png
+  Saved slide 3: test_files\test_presentation\page_images\temp\slide_003.png
+  Saved slide 4: test_files\test_presentation\page_images\temp\slide_004.png
+  Saved slide 5: test_files\test_presentation\page_images\temp\slide_005.png
+  Saved slide 6: test_files\test_presentation\page_images\temp\slide_006.png
+  Saved slide 7: test_files\test_presentation\page_images\temp\slide_007.png
+  Saved slide 8: test_files\test_presentation\page_images\temp\slide_008.png
+  Saved slide 9: test_files\test_presentation\page_images\temp\slide_009.png
+  Saved slide 10: test_files\test_presentation\page_images\temp\slide_010.png
+  Saved slide 11: test_files\test_presentation\page_images\temp\slide_011.png
+  Saved slide 12: test_files\test_presentation\page_images\temp\slide_012.png
+  Saved slide 13: test_files\test_presentation\page_images\temp\slide_013.png
+  Saved slide 14: test_files\test_presentation\page_images\temp\slide_014.png
+  Saved slide 15: test_files\test_presentation\page_images\temp\slide_015.png
+  Saved slide 16: test_files\test_presentation\page_images\temp\slide_016.png
+  Saved slide 17: test_files\test_presentation\page_images\temp\slide_017.png
+{
+  "status": "success",
+  "exit_code": 12,
+  "pages_processed": 17,
+  "text_extracted": true,
+  "images_count": 17,
+  "ocr_performed": false,
+  "heuristic_applied": true,
+  "output_files": {
+    "processed": "test_files\\test_presentation\\test_presentation.txt",
+    "images_analysis": "test_files\\test_presentation\\test_presentation_images_analysis.txt",
+    "page_images_folder": "test_files\\test_presentation\\page_images\\"
+  },
+  "processing_time": 2.86,
+  "errors": []
+}

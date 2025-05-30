@@ -1,0 +1,27 @@
+Image Analysis Report for test_spreadsheet.xlsx
+==================================================
+
+Total images extracted: 17
+Source file: test_files\test_spreadsheet.xlsx
+Processing date: 2025-05-30 18:19:35
+
+Extracted image files:
+   1. test_spreadsheet_page_1.png (6,432 bytes)
+   2. test_spreadsheet_page_2.png (5,365 bytes)
+   3. test_spreadsheet_page_3.png (45,443 bytes)
+   4. test_spreadsheet_page_4.png (39,587 bytes)
+   5. test_spreadsheet_page_5.png (44,696 bytes)
+   6. test_spreadsheet_page_6.png (40,288 bytes)
+   7. test_spreadsheet_page_7.png (39,372 bytes)
+   8. test_spreadsheet_page_8.png (31,990 bytes)
+   9. test_spreadsheet_page_9.png (67,894 bytes)
+  10. test_spreadsheet_page_10.png (39,778 bytes)
+  11. test_spreadsheet_page_11.png (37,830 bytes)
+  12. test_spreadsheet_page_12.png (46,812 bytes)
+  13. test_spreadsheet_page_13.png (30,654 bytes)
+  14. test_spreadsheet_page_14.png (32,296 bytes)
+  15. test_spreadsheet_page_15.png (43,577 bytes)
+  16. test_spreadsheet_page_16.png (35,345 bytes)
+  17. test_spreadsheet_page_17.png (3,896 bytes)
+
+All images saved to: test_files\test_spreadsheet\page_images

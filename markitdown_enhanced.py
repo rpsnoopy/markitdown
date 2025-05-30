@@ -22,7 +22,6 @@ Exit Codes:
 - 10: Text only extracted
 - 11: Images only extracted  
 - 12: Text and images extracted
-- 13: Partial success (recoverable errors)
 - 1: File error (not found, permissions, format)
 - 2: PDF corrupted/unreadable
 - 3: Timeout/user interruption
@@ -44,7 +43,6 @@ EXIT_SUCCESS = 0
 EXIT_TEXT_ONLY = 10
 EXIT_IMAGES_ONLY = 11
 EXIT_TEXT_AND_IMAGES = 12
-EXIT_PARTIAL_SUCCESS = 13
 EXIT_FILE_ERROR = 1
 EXIT_PDF_CORRUPTED = 2
 EXIT_TIMEOUT = 3
@@ -73,10 +71,8 @@ class ProcessingResult:
         self.exit_code = exit_code
         self.errors.append(error_msg)
     
-    def set_partial(self, warning_msg: str):
-        """Set partial success status."""
-        self.status = "partial"
-        self.exit_code = EXIT_PARTIAL_SUCCESS
+    def add_warning(self, warning_msg: str):
+        """Add warning message."""
         self.errors.append(warning_msg)
     
     def finalize(self):
@@ -86,18 +82,22 @@ class ProcessingResult:
         if self.status == "error":
             return  # Keep error status
         
-        if self.status == "partial":
-            return  # Keep partial status
-        
-        # Determine success type
+        # Determine success type based on what was actually produced
         if self.text_extracted and self.images_count > 0:
+            self.status = "success"
             self.exit_code = EXIT_TEXT_AND_IMAGES
         elif self.text_extracted:
+            self.status = "success"
             self.exit_code = EXIT_TEXT_ONLY
         elif self.images_count > 0:
+            self.status = "success"
             self.exit_code = EXIT_IMAGES_ONLY
         else:
-            self.exit_code = EXIT_SUCCESS
+            # Neither text nor images were produced - this is an error
+            self.status = "error"
+            self.exit_code = EXIT_FILE_ERROR
+            if not self.errors:
+                self.errors.append("No text or images could be extracted from document")
     
     def to_dict(self) -> Dict[str, Any]:
         """Convert to dictionary for JSON output."""
@@ -202,7 +202,7 @@ def extract_text_content(source_path: Path, text_file: Path, result: ProcessingR
         conversion_result = md.convert(str(source_path))
         
         if not conversion_result or not conversion_result.text_content:
-            result.set_partial("No text content extracted from document")
+            result.set_error("No text content extracted from document", EXIT_FILE_ERROR)
             return False
         
         # Write text content
@@ -270,7 +270,7 @@ def extract_images(source_path: Path, images_dir: Path, images_analysis_file: Pa
         )
         
         if not image_files:
-            result.set_partial("No images could be extracted from document")
+            result.add_warning("No images could be extracted from document")
             temp_dir.rmdir()
             return False
         
@@ -280,7 +280,9 @@ def extract_images(source_path: Path, images_dir: Path, images_analysis_file: Pa
             final_name = f"{source_name}_page_{i}.png"
             final_path = images_dir / final_name
             
-            # Move and rename
+            # Remove existing file if it exists, then move and rename
+            if final_path.exists():
+                final_path.unlink()
             Path(temp_file).rename(final_path)
             final_files.append(str(final_path))
         
@@ -304,7 +306,7 @@ def extract_images(source_path: Path, images_dir: Path, images_analysis_file: Pa
                     f.write(f"  {i:2d}. {Path(file_path).name} ({file_size:,} bytes)\n")
                 f.write(f"\nAll images saved to: {images_dir}\n")
         except Exception as e:
-            result.set_partial(f"Failed to create images analysis file: {e}")
+            result.add_warning(f"Failed to create images analysis file: {e}")
         
         return True
         
@@ -316,7 +318,7 @@ def extract_images(source_path: Path, images_dir: Path, images_analysis_file: Pa
         if "corrupted" in error_msg.lower():
             result.set_error(f"Document appears corrupted: {e}", EXIT_PDF_CORRUPTED)
         else:
-            result.set_partial(f"Image extraction failed: {e}")
+            result.add_warning(f"Image extraction failed: {e}")
         return False
 
 
@@ -381,7 +383,6 @@ Exit codes:
   10: Text only extracted
   11: Images only extracted
   12: Text and images extracted
-  13: Partial success (recoverable errors)
   1: File error (not found, permissions, format)
   2: PDF corrupted/unreadable
   3: Timeout/user interruption

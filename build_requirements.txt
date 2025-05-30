@@ -22,7 +22,11 @@ youtube-transcript-api~=1.0.0
 azure-ai-documentintelligence
 azure-identity
 
-# Additional dependencies that might be needed
+# Image extraction dependencies
+pdf2image
+PyMuPDF
 Pillow
+
+# Additional dependencies that might be needed
 certifi
 setuptools

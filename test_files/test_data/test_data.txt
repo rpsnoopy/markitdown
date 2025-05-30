@@ -1,0 +1,19 @@
+{
+  "test_suite": "MarkItDown Enhanced",
+  "test_cases": [
+    {
+      "id": 1,
+      "name": "Basic text extraction",
+      "expected_result": "success"
+    },
+    {
+      "id": 2,
+      "name": "Image extraction",
+      "expected_result": "partial"
+    }
+  ],
+  "metadata": {
+    "created": "2024-01-01",
+    "author": "Test Suite Generator"
+  }
+}
