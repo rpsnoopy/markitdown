@@ -1,6 +1,6 @@
-# MarkItDown Enhanced - Repository Structure
+# PDF Processor Integration Suite - Repository Structure
 
-This repository is dedicated to the **Enhanced version** of MarkItDown with structured JSON output and image extraction capabilities.
+This repository contains a comprehensive **document processing suite** built on MarkItDown with advanced PDF processing, structured JSON output, and image extraction capabilities.
 
 ## 🚀 Quick Start
 
@@ -10,10 +10,10 @@ This repository is dedicated to the **Enhanced version** of MarkItDown with stru
 
 ## 📁 Key Files
 
-### Core Enhanced Version
-- `markitdown_enhanced.py` - Main enhanced script with JSON output
+### Core Processing Suite
+- `markitdown_enhanced.py` - Main processing script with structured JSON output
 - `markitdown_enhanced.spec` - PyInstaller build specification
-- `image_extractor.py` - Image extraction utilities
+- `image_extractor.py` - Advanced image extraction utilities
 
 ### Build & Test
 - `COMPILE.bat` - Compile enhanced executable
@@ -33,16 +33,17 @@ This repository is dedicated to the **Enhanced version** of MarkItDown with stru
 - `PROCESS_DOCUMENT.bat` - Process single document
 - `MARKITDOWN_PLUS.bat` - Advanced processing script
 
-## 🎯 Enhanced Features
+## 🎯 Advanced Processing Features
 
-- **Structured JSON output** with detailed metadata
-- **Image extraction** with page-by-page PNG export
-- **Standardized directory structure** for outputs
+- **Structured JSON output** with comprehensive metadata
+- **Advanced image extraction** with page-by-page PNG export
+- **Standardized directory structure** for all outputs
 - **Comprehensive error handling** with specific exit codes
 - **Complete Office format support** (DOCX, PPTX, XLSX)
-- **PDF processing** with image extraction
-- **Standalone executable** for distribution
+- **Enhanced PDF processing** with image extraction and analysis
+- **Standalone executable** for easy distribution
+- **Multi-format document analysis** and conversion
 
 ## 📦 Base Library
 
-The `packages/markitdown/` directory contains the core MarkItDown library that provides the foundation for the enhanced version.
+The `packages/markitdown/` directory contains the core MarkItDown library that provides the foundation for the advanced processing suite.

@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir:*)",
+      "Bash(pip install:*)",
+      "Bash(python3:*)",
+      "Bash(sudo apt:*)",
+      "Bash(sudo apt install:*)",
+      "Bash(mv:*)",
+      "Bash(git add:*)",
+      "Bash(git config:*)",
+      "Bash(ls:*)",
+      "Bash(./dist/markitdown_enhanced.exe test_files/test.docx --json-output --quiet)",
+      "Bash(grep:*)",
+      "Bash(./dist/markitdown.exe --version)",
+      "Bash(python -m pip install:*)",
+      "Bash(rm:*)",
+      "Bash(find:*)",
+      "Bash(rg:*)",
+      "Bash(python:*)",
+      "Bash(COMPILE_ENHANCED_ONLY.bat)"
+    ],
+    "deny": []
+  },
+  "enableAllProjectMcpServers": false
+}

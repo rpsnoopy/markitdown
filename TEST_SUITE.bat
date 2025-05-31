@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 echo ========================================
-echo MarkItDown Enhanced - Complete Test Suite
+echo PDF Processor Integration - Test Suite
 echo ========================================
 echo.
 
@@ -249,7 +249,7 @@ echo.
 
 if !SUCCESS_RATE! GEQ 90 (
     echo RESULT: EXCELLENT - !SUCCESS_RATE!%% success rate
-    echo MarkItDown Enhanced is working great
+    echo PDF Processor Integration is working great
 ) else (
     if !SUCCESS_RATE! GEQ 70 (
         echo RESULT: GOOD - !SUCCESS_RATE!%% success rate

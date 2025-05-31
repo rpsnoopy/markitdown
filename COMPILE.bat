@@ -1,7 +1,7 @@
 @echo off
 echo ========================================
-echo MarkItDown Enhanced - Fast Compilation
-echo Building ONLY Enhanced Version
+echo PDF Processor Integration - Compilation
+echo Building Advanced Processing Suite
 echo ========================================
 echo.
 
@@ -21,9 +21,9 @@ if exist build\markitdown_enhanced rmdir /s /q build\markitdown_enhanced
 echo Enhanced build directory cleaned.
 
 echo.
-echo [3/4] Building Enhanced version with structured output...
+echo [3/4] Building PDF Processing Suite with structured output...
 echo This creates a single executable with ALL Office + PDF support
-echo Compilation time: ~3-5 minutes (faster than full build)
+echo Compilation time: ~3-5 minutes
 echo.
 
 echo Using enhanced spec file for compilation...
